@@ -1,0 +1,1034 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="970"
+   height="600"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47pre1 r21720"
+   sodipodi:docname="home_user.svg"
+   sodipodi:version="0.32"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   style="display:inline">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 300 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="970 : 300 : 1"
+       inkscape:persp3d-origin="485 : 200 : 1"
+       id="perspective165" />
+    <inkscape:perspective
+       id="perspective2982"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3010"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="560.79295"
+     inkscape:cy="294.32529"
+     inkscape:document-units="px"
+     inkscape:current-layer="g3851"
+     showgrid="true"
+     inkscape:showpageshadow="true"
+     showguides="true"
+     inkscape:window-width="1680"
+     inkscape:window-height="976"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:snap-to-guides="false"
+     inkscape:snap-grids="true"
+     gridtolerance="10000"
+     inkscape:guide-bbox="true"
+     inkscape:snap-page="false"
+     inkscape:snap-global="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2834"
+       empspacing="10"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       spacingx="10px"
+       spacingy="10px" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Background"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-452.36217)"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2840"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       transform="translate(-42.15625,436.76444)"><flowRegion
+         id="flowRegion2842"><rect
+           id="rect2844"
+           width="250.00006"
+           height="100.00005"
+           x="0"
+           y="0"
+           style="text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle"
+           ry="1.192843"
+           rx="2.3841858e-06" /></flowRegion><flowPara
+         id="flowPara2846" /><flowPara
+         id="flowPara2848">LOGO</flowPara></flowRoot>    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.99894369;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3952"
+       width="949.00104"
+       height="84.001053"
+       x="10.499472"
+       y="452.86163" />
+    <rect
+       style="fill:none;stroke:#c8c8c8;stroke-width:1.00986242;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4757"
+       width="948.99017"
+       height="513.99017"
+       x="10.504931"
+       y="537.86713" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layout"
+     style="display:inline">
+    <rect
+       style="fill:#666666;display:inline"
+       id="rect3410"
+       width="280"
+       height="270"
+       x="660"
+       y="236"
+       ry="5"
+       rx="5" />
+    <g
+       style="display:inline"
+       id="g3851"
+       transform="translate(0,-75)">
+      <rect
+         ry="5"
+         rx="5.833333"
+         y="180"
+         x="660"
+         height="120"
+         width="280"
+         id="rect4943"
+         style="fill:#808080;fill-opacity:1;stroke:none" />
+      <rect
+         ry="5"
+         rx="5"
+         y="224"
+         x="760"
+         height="50"
+         width="80"
+         id="rect4957"
+         style="fill:#999999;fill-opacity:1;stroke:none" />
+      <text
+         id="text4959"
+         y="259.54391"
+         x="800.16364"
+         style="font-size:32px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+           y="259.54391"
+           x="800.16364"
+           id="tspan4961"
+           sodipodi:role="line">3.2</tspan></text>
+      <text
+         id="text4963"
+         y="207.00005"
+         x="802.5379"
+         style="font-size:18px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="207.00005"
+           x="802.5379"
+           id="tspan4965"
+           sodipodi:role="line">Настроение дня</tspan></text>
+    </g>
+    <rect
+       style="fill:#666666;display:inline"
+       id="rect3506"
+       width="610"
+       height="160"
+       x="30"
+       y="180"
+       rx="5"
+       ry="5" />
+    <path
+       style="fill:#666666;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-opacity:1"
+       d="m 45,361.99998 100,0 c 2.77,0 5,2.23 5,5 l 0,35 -110,0 0,-35 c 0,-2.77 2.23,-5 5,-5 z"
+       id="rect2971"
+       sodipodi:nodetypes="ccccccc" />
+    <rect
+       style="fill:#666666;display:inline"
+       id="rect3508"
+       width="610"
+       height="200"
+       x="30"
+       y="392"
+       rx="5"
+       ry="5" />
+    <rect
+       style="fill:#666666;display:inline"
+       id="rect3506-3"
+       width="610"
+       height="65"
+       x="30"
+       y="105"
+       rx="5"
+       ry="5" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer"
+     style="display:inline;opacity:0.99">
+    <g
+       id="g3074-8"
+       transform="translate(-17.03125,-99)">
+      <rect
+         ry="5"
+         rx="5"
+         y="99"
+         x="677.03125"
+         height="70"
+         width="280"
+         id="rect4827-7"
+         style="fill:#787878;fill-opacity:0.46956523999999999;stroke:none" />
+      <text
+         xml:space="preserve"
+         style="font-size:12px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+         x="675.28699"
+         y="20.879545"
+         id="text4220"
+         sodipodi:linespacing="125%"
+         transform="translate(17.03125,99)"><tspan
+           sodipodi:role="line"
+           id="tspan4222"
+           x="675.28699"
+           y="20.879545" /></text>
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+         x="697.03125"
+         y="119"
+         id="text4224"
+         sodipodi:linespacing="100%"><tspan
+           sodipodi:role="line"
+           id="tspan4226"
+           x="697.03125"
+           y="119"
+           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans">Игорь Иванов</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+         x="889.03125"
+         y="119"
+         id="text4224-4"
+         sodipodi:linespacing="100%"><tspan
+           sodipodi:role="line"
+           id="tspan4226-6"
+           x="889.03125"
+           y="119"
+           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans">Выход</tspan></text>
+    </g>
+    <rect
+       style="fill:#b30000;fill-opacity:1"
+       id="rect3380"
+       width="30"
+       height="20"
+       x="680"
+       y="280" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+       x="679"
+       y="262"
+       id="text3398"><tspan
+         sodipodi:role="line"
+         id="tspan3400"
+         x="679"
+         y="262">Интересное</tspan></text>
+    <rect
+       style="fill:#6078b3;fill-opacity:1"
+       id="rect3402"
+       width="30"
+       height="20"
+       x="680"
+       y="310" />
+    <rect
+       style="fill:#b3b3b3"
+       id="rect3404"
+       width="30"
+       height="20"
+       x="680"
+       y="340" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;fill:#ffffff;fill-opacity:1;stroke:none"
+       x="687"
+       y="293"
+       id="text3412"><tspan
+         sodipodi:role="line"
+         id="tspan3414"
+         x="687"
+         y="293">+5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;fill:#ffffff;fill-opacity:1;stroke:none"
+       x="686.97656"
+       y="323.59042"
+       id="text3416"><tspan
+         sodipodi:role="line"
+         id="tspan3418"
+         x="686.97656"
+         y="323.59042">-5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;fill:#ffffff;fill-opacity:1;stroke:none"
+       x="686.97656"
+       y="351.7746"
+       id="text3420"><tspan
+         sodipodi:role="line"
+         id="tspan3422"
+         x="686.97656"
+         y="351.7746">оц.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+       x="720"
+       y="289.99997"
+       id="text3424"><tspan
+         sodipodi:role="line"
+         x="720"
+         y="289.99997"
+         id="tspan4000">Фильм Суррогаты</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+       x="719.63672"
+       y="318.06873"
+       id="text3428"><tspan
+         sodipodi:role="line"
+         id="tspan3430"
+         x="719.63672"
+         y="318.06873">Фирма МТС</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+       x="719.0625"
+       y="348.29959"
+       id="text3432"><tspan
+         sodipodi:role="line"
+         id="tspan3434"
+         x="719.0625"
+         y="348.29959">программы</tspan></text>
+    <rect
+       style="fill:#cccccc"
+       id="rect3462"
+       width="30"
+       height="20"
+       x="680"
+       y="370" />
+    <rect
+       style="fill:#cccccc"
+       id="rect3464"
+       width="30"
+       height="20"
+       x="680"
+       y="400" />
+    <rect
+       style="fill:#aaaccc;fill-opacity:1"
+       id="rect3466"
+       width="30"
+       height="20"
+       x="680"
+       y="430" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;fill:#ffffff;fill-opacity:1;stroke:none"
+       x="686.97656"
+       y="381.9588"
+       id="text3468"><tspan
+         sodipodi:role="line"
+         id="tspan3470"
+         x="686.97656"
+         y="381.9588">оц.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;fill:#ffffff;fill-opacity:1;stroke:none"
+       x="686.97656"
+       y="412.14297"
+       id="text3472"><tspan
+         sodipodi:role="line"
+         id="tspan3474"
+         x="686.97656"
+         y="412.14297">оц.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;fill:#ffffff;fill-opacity:1;stroke:none"
+       x="688.02734"
+       y="444"
+       id="text3476"><tspan
+         sodipodi:role="line"
+         id="tspan3478"
+         x="688.02734"
+         y="444">-2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+       x="720"
+       y="380.69257"
+       id="text3480"><tspan
+         sodipodi:role="line"
+         id="tspan3482"
+         x="720"
+         y="380.69257">Фильмы</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+       x="719.31445"
+       y="409.76913"
+       id="text3484"><tspan
+         sodipodi:role="line"
+         id="tspan3486"
+         x="719.31445"
+         y="409.76913">Музыка</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+       x="720"
+       y="440"
+       id="text3488"><tspan
+         sodipodi:role="line"
+         id="tspan3490"
+         x="720"
+         y="440">Программы</tspan></text>
+    <rect
+       style="fill:#666666"
+       id="rect3496"
+       width="40"
+       height="20"
+       x="890"
+       y="40" />
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+       x="909.71631"
+       y="52.747559"
+       id="text3498"><tspan
+         sodipodi:role="line"
+         id="tspan3500"
+         x="909.71631"
+         y="52.747559">Найти</tspan></text>
+    <g
+       id="g4487"
+       transform="matrix(1.75,0,0,1,600,-150)">
+      <rect
+         y="190"
+         x="40"
+         height="20"
+         width="120"
+         id="rect3494"
+         style="fill:#666666" />
+      <text
+         id="text3502"
+         y="156.2886"
+         x="58.508434"
+         style="font-size:7.55928946px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#f2f2f2;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+         xml:space="preserve"
+         sodipodi:linespacing="125%"
+         transform="scale(0.76612061,1.3052775)"><tspan
+           y="156.2886"
+           x="58.508434"
+           id="tspan3504"
+           sodipodi:role="line">Поиск</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;fill:#ffffff;fill-opacity:1;stroke:none"
+       x="66"
+       y="215"
+       id="text4282"><tspan
+         sodipodi:role="line"
+         id="tspan4284"
+         x="66"
+         y="215" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+       x="94"
+       y="382"
+       id="text4286"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4288"
+         x="94"
+         y="382">Мои оценки</tspan></text>
+    <rect
+       style="fill:#cc0000;fill-opacity:1;stroke:none"
+       id="rect4290"
+       width="30"
+       height="20"
+       x="50"
+       y="422" />
+    <rect
+       style="fill:#cc6600;fill-opacity:1;stroke:none"
+       id="rect4292"
+       width="30"
+       height="20"
+       x="50"
+       y="457" />
+    <rect
+       style="fill:#b7b8ff;fill-opacity:1;stroke:none"
+       id="rect4294"
+       width="30"
+       height="20"
+       x="50"
+       y="492" />
+    <rect
+       style="fill:#cccccc;fill-opacity:1;stroke:none"
+       id="rect4296"
+       width="30"
+       height="20"
+       x="50"
+       y="527" />
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1;stroke:none"
+       id="rect4298"
+       width="30"
+       height="20"
+       x="50"
+       y="562" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+       x="99"
+       y="431"
+       id="text4300"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="99"
+         y="431"
+         id="tspan3940">Фильм &quot;Суррогаты&quot;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+       x="60"
+       y="429"
+       id="text4304"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4306"
+         x="60"
+         y="429" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+       x="54"
+       y="436"
+       id="text4308"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4310"
+         x="54"
+         y="436">+5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
+       x="55"
+       y="472"
+       id="text4312"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4314"
+         x="55"
+         y="472">+4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+       x="112"
+       y="469"
+       id="text4316"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4318"
+         x="112"
+         y="469">Фильм &quot;Табор уходит в небо&quot; kitten</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+       x="113"
+       y="499"
+       id="text4328"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4330"
+         x="113"
+         y="499">...................................</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+       x="111"
+       y="534"
+       id="text4332"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4334"
+         x="111"
+         y="534">...................................</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+       x="110"
+       y="561"
+       id="text4336"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4338"
+         x="110"
+         y="561">....................................</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+       x="73"
+       y="200"
+       id="text4340"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4342"
+         x="73"
+         y="200" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#f2f2f2;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+       x="49"
+       y="206"
+       id="text4344"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4346"
+         x="49"
+         y="206">Популярные темы:</tspan></text>
+    <rect
+       style="fill:#b3b3b3;fill-opacity:1;stroke:none"
+       id="rect4348"
+       width="50"
+       height="20"
+       x="50"
+       y="220" />
+    <rect
+       style="fill:#b3b3b3;fill-opacity:1;stroke:none"
+       id="rect4350"
+       width="50"
+       height="20"
+       x="50"
+       y="260" />
+    <rect
+       style="fill:#b3b3b3;fill-opacity:1;stroke:none"
+       id="rect4352"
+       width="50"
+       height="20"
+       x="50"
+       y="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+       x="62"
+       y="235"
+       id="text4354"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4356"
+         x="62"
+         y="235">час</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+       x="67"
+       y="269"
+       id="text4358"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4360"
+         x="67"
+         y="269" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+       x="61"
+       y="274"
+       id="text4362"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4364"
+         x="61"
+         y="274">день</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+       x="60"
+       y="311"
+       id="text4366"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4368"
+         x="60"
+         y="311" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+       x="50"
+       y="314"
+       id="text4370"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4372"
+         x="50"
+         y="314">неделя</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+       x="119"
+       y="274"
+       id="text4374"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4376"
+         x="119"
+         y="274">Путин  Медведев  Вайкуле  Газ  Украина  Гейпарад  Свадьба</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+       x="131"
+       y="324"
+       id="text4378"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4380"
+         x="131"
+         y="324" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+       x="133"
+       y="314"
+       id="text4382"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="133"
+         y="314"
+         id="tspan4386" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+       x="120"
+       y="313"
+       id="text4390"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4392"
+         x="120"
+         y="313">Взрыв  Мозг  Мост  МГУ  </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+       x="120"
+       y="236"
+       id="text4394"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4396"
+         x="120"
+         y="236">Москва  Игорь  Тайота  Работа  Безобразие</tspan></text>
+    <rect
+       style="fill:#999999;fill-opacity:1;stroke:none"
+       id="rect4406"
+       width="90"
+       height="30"
+       x="250"
+       y="30"
+       rx="5"
+       ry="5" />
+    <rect
+       style="fill:#999999;fill-opacity:1;stroke:none"
+       id="rect4408"
+       width="170"
+       height="30"
+       x="470"
+       y="30"
+       ry="5"
+       rx="5" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+       x="260"
+       y="50"
+       id="text4414"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4416"
+         x="260"
+         y="50">о проекте</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+       x="499"
+       y="50"
+       id="text4418"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4420"
+         x="499"
+         y="50">Вся страна</tspan></text>
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 610,30 0,30 0,0 0,0"
+       id="path4422" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
+       x="54"
+       y="506"
+       id="text4312-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4314-2"
+         x="54"
+         y="506">-2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
+       x="60"
+       y="541"
+       id="text4312-8-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4314-2-2"
+         x="60"
+         y="541">0</tspan></text>
+    <rect
+       style="fill:#999999;fill-opacity:1;stroke:none"
+       id="rect4406-0"
+       width="90"
+       height="30"
+       x="360"
+       y="30"
+       rx="5"
+       ry="5" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+       x="404"
+       y="50"
+       id="text4414-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4416-3"
+         x="404"
+         y="50">справка</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+       x="720"
+       y="305.5"
+       id="text4004"><tspan
+         sodipodi:role="line"
+         id="tspan4006"
+         x="720"
+         y="305.5" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+       x="720"
+       y="300"
+       id="text4008"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4010"
+         x="720"
+         y="300">324 оценки</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+       x="720"
+       y="330"
+       id="text4008-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4010-2"
+         x="720"
+         y="330">217 оценок</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;opacity:0.98999999000000005;fill:#f2f2f2;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+       x="38.765625"
+       y="129.54297"
+       id="text4344-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4346-0"
+         x="38.765625"
+         y="129.54297">Я ставлю</tspan></text>
+    <rect
+       style="fill:#ffc64b;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-opacity:1"
+       id="rect4300"
+       width="41.719303"
+       height="22.804193"
+       x="112.09041"
+       y="113.86408" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+       x="124.16669"
+       y="128.94556"
+       id="text4302"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan4304"
+         x="124.16669"
+         y="128.94556">+3</tspan></text>
+    <rect
+       style="opacity:0.98999999;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-opacity:1;display:inline"
+       id="rect4300-3"
+       width="112.07248"
+       height="22.804193"
+       x="164.80969"
+       y="113.86408" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:0.98999999;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+       x="169.52846"
+       y="128.77399"
+       id="text4302-6"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan4304-9"
+         x="169.52846"
+         y="128.77399">сайту</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 260,122 10,0 -4.90555,7.48093 L 260,122 z"
+       id="path4364"
+       sodipodi:nodetypes="cccc" />
+    <rect
+       style="opacity:0.98999999;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-opacity:1;display:inline"
+       id="rect4300-3-2"
+       width="267.63599"
+       height="22.804193"
+       x="285.88217"
+       y="113.86408" />
+    <text
+       xml:space="preserve"
+       style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;opacity:0.98999999000000005;fill:#f2f2f2;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+       x="40"
+       y="158"
+       id="text4344-2-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4346-0-8"
+         x="40"
+         y="158">потому что</tspan></text>
+    <rect
+       style="opacity:0.98999999;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-opacity:1;display:inline"
+       id="rect4300-3-2-8"
+       width="487.31799"
+       height="22.804193"
+       x="142.18201"
+       y="142.5" />
+    <rect
+       style="opacity:0.98999999000000005;fill:#ff3121;fill-opacity:1;stroke:#000000;stroke-width:0.99999994000000003;stroke-opacity:1;display:inline"
+       id="rect4300-4"
+       width="68.981873"
+       height="22.804193"
+       x="560.51813"
+       y="113.86408" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;opacity:0.98999999;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+       x="595.71631"
+       y="128.74756"
+       id="text3498-5"><tspan
+         sodipodi:role="line"
+         id="tspan3500-1"
+         x="595.71631"
+         y="128.74756">добавить</tspan></text>
+    <path
+       style="fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1;display:inline"
+       d="m 170,362 100,0 c 2.77,0 5,1.6725 5,3.75 l 0,26.25 -110,0 0,-26.25 c 0,-2.0775 2.23,-3.75 5,-3.75 z"
+       id="rect2971-7"
+       sodipodi:nodetypes="ccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;opacity:0.98999999;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+       x="219"
+       y="382.00003"
+       id="text4286-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4288-7"
+         x="219"
+         y="382.00003">Знакомые</tspan></text>
+    <path
+       style="opacity:0.98999999;fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1;display:inline"
+       d="m 295,362 100,0 c 2.77,0 5,1.6725 5,3.75 l 0,26.25 -110,0 0,-26.25 c 0,-2.0775 2.23,-3.75 5,-3.75 z"
+       id="rect2971-7-2"
+       sodipodi:nodetypes="ccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;opacity:0.98999999;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+       x="344"
+       y="382.00003"
+       id="text4286-9-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4288-7-3"
+         x="344"
+         y="382.00003">Все оценки</tspan></text>
+  </g>
+</svg>
