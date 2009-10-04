@@ -104,6 +104,13 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 0.5 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2992"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -112,9 +119,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="386.65811"
-     inkscape:cy="301.72423"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="712.11734"
+     inkscape:cy="315.88617"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      showgrid="true"
@@ -952,5 +959,41 @@
          id="tspan4010-2"
          x="720"
          y="330">fictious</tspan></text>
-  </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2966"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"><flowRegion
+         id="flowRegion2968"><rect
+           id="rect2970"
+           width="171.11984"
+           height="127.98633"
+           x="-171.11984"
+           y="394.93903"
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans" /></flowRegion><flowPara
+         id="flowPara2972">В интересное попадают объекты с большим количеством оценок, отличных от нуля</flowPara><flowPara
+         id="flowPara2974">Сортировка идет по нестандартной формуле, включающей в себя новизну, разброс значений оценок и количество оценок.</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2976"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+       transform="translate(78.167969,18.429364)"><flowRegion
+         id="flowRegion2978"><rect
+           id="rect2980"
+           width="168.99852"
+           height="55.861435"
+           x="-168.99852"
+           y="108.56078"
+           style="fill:#000000;stroke:none" /></flowRegion><flowPara
+         id="flowPara2982">Поиск по объектам, примечаниям и т.п.</flowPara></flowRoot>    <flowRoot
+       transform="translate(1153.0586,-287.44428)"
+       xml:space="preserve"
+       id="flowRoot2966-7"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"><flowRegion
+         id="flowRegion2968-8"><rect
+           id="rect2970-6"
+           width="171.11984"
+           height="127.98633"
+           x="-171.11984"
+           y="394.93903"
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans" /></flowRegion><flowPara
+         id="flowPara2974-7">Настроение дня учитывает всех пользователей, поставивших оценки в течение суток. Обновляется раз в 15 минут. Точность до 1 знака после запятой.</flowPara></flowRoot>  </g>
 </svg>
