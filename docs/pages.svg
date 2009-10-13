@@ -55,8 +55,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="573.6216"
-     inkscape:cy="666.72612"
+     inkscape:cx="198.80042"
+     inkscape:cy="1089.5995"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -64,8 +64,8 @@
      showguides="true"
      inkscape:window-width="1279"
      inkscape:window-height="945"
-     inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-x="250"
+     inkscape:window-y="105"
      inkscape:window-maximized="1"
      inkscape:snap-to-guides="false"
      inkscape:snap-grids="false"
@@ -152,31 +152,8 @@
          x="288"
          y="-444" /></text>
     <g
-       id="g3882">
-      <rect
-         y="202.25301"
-         x="200"
-         height="200.10916"
-         width="149.69615"
-         id="rect3675"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.41316593;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <text
-         id="text3677"
-         y="252.25301"
-         x="210"
-         style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-         xml:space="preserve"><tspan
-           y="252.25301"
-           x="210"
-           sodipodi:role="line"
-           id="tspan3681">список</tspan><tspan
-           id="tspan3685"
-           y="272.25299"
-           x="210"
-           sodipodi:role="line">пользователей</tspan></text>
-    </g>
-    <g
-       id="g3876">
+       id="g3876"
+       transform="translate(400.30385,-249.89084)">
       <rect
          style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.41316593;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect3687"
@@ -190,45 +167,18 @@
          x="10"
          y="252.25301"
          id="text3689"><tspan
-           sodipodi:role="line"
-           x="10"
-           y="252.25301"
-           id="tspan3693">расширенный</tspan><tspan
            id="tspan3697"
            sodipodi:role="line"
            x="10"
-           y="272.25299">поск</tspan></text>
+           y="252.25301">результаты</tspan><tspan
+           sodipodi:role="line"
+           x="10"
+           y="272.25299"
+           id="tspan2502">поиска</tspan></text>
     </g>
     <g
-       id="g3888">
-      <rect
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.41316593;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect3701"
-         width="149.69615"
-         height="200.10916"
-         x="400"
-         y="202.36217" />
-      <text
-         xml:space="preserve"
-         style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-         x="410"
-         y="252.36217"
-         id="text3703"><tspan
-           sodipodi:role="line"
-           x="410"
-           y="252.36217"
-           id="tspan3707">расширенное</tspan><tspan
-           id="tspan3769"
-           sodipodi:role="line"
-           x="410"
-           y="272.36218">создание</tspan><tspan
-           id="tspan3711"
-           sodipodi:role="line"
-           x="410"
-           y="292.36218">поста</tspan></text>
-    </g>
-    <g
-       id="g3895">
+       id="g3895"
+       transform="translate(-399.69615,-249.89085)">
       <rect
          y="202.25302"
          x="600"
@@ -251,70 +201,37 @@
            x="610"
            sodipodi:role="line">профиля</tspan></text>
     </g>
-    <g
-       id="g3838">
-      <rect
-         y="-47.637829"
-         x="0"
-         height="200.10916"
-         width="149.69615"
-         id="rect3627"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.41316593;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <text
-         id="text3633"
+    <rect
+       y="-47.637829"
+       x="0"
+       height="200.10916"
+       width="149.69615"
+       id="rect3639"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.41316593;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       id="text3641"
+       y="2.36217"
+       x="10"
+       style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
          y="2.36217"
          x="10"
-         style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-         xml:space="preserve"><tspan
-           y="2.36217"
-           x="10"
-           id="tspan3635"
-           sodipodi:role="line">постраничный</tspan><tspan
-           id="tspan3637"
-           y="22.362169"
-           x="10"
-           sodipodi:role="line">список постов</tspan></text>
-      <rect
-         y="-47.637829"
-         x="0"
-         height="20"
-         width="20"
-         id="rect3757"
-         style="opacity:1;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    </g>
+         sodipodi:role="line"
+         id="tspan3649">просмотр</tspan><tspan
+         id="tspan2506"
+         y="22.362169"
+         x="10"
+         sodipodi:role="line">профиля</tspan></text>
+    <rect
+       style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3759"
+       width="20"
+       height="20"
+       x="0"
+       y="-47.637829" />
     <g
-       id="g3845">
-      <rect
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.41316593;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect3639"
-         width="149.69615"
-         height="200.10916"
-         x="200"
-         y="-47.637829" />
-      <text
-         xml:space="preserve"
-         style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-         x="210"
-         y="2.36217"
-         id="text3641"><tspan
-           sodipodi:role="line"
-           x="210"
-           y="2.36217"
-           id="tspan3645">профиль</tspan><tspan
-           id="tspan3649"
-           sodipodi:role="line"
-           x="210"
-           y="22.362169">пользователя</tspan></text>
-      <rect
-         y="-47.637829"
-         x="200"
-         height="20"
-         width="20"
-         id="rect3759"
-         style="opacity:1;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    </g>
-    <g
-       id="g3852">
+       id="g3852"
+       transform="translate(-0.303833,-249.89084)">
       <rect
          y="-47.746986"
          x="400.30383"
@@ -341,7 +258,8 @@
          style="opacity:1;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g3858">
+       id="g3858"
+       transform="translate(-0.303833,-249.89084)">
       <rect
          y="-47.74699"
          x="600.30383"
@@ -369,7 +287,7 @@
     </g>
     <g
        id="g3817"
-       transform="translate(200,-150)">
+       transform="translate(0,-220)">
       <rect
          y="-147.63783"
          x="0"
@@ -448,88 +366,8 @@
          y="-47.746986" />
     </g>
     <g
-       id="g3864">
-      <rect
-         y="-47.637829"
-         x="800.30383"
-         height="200.10916"
-         width="149.69615"
-         id="rect3737"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.41316593;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <text
-         id="text3739"
-         y="2.36217"
-         x="810.30383"
-         style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-         xml:space="preserve"><tspan
-           id="tspan3741"
-           y="2.36217"
-           x="810.30383"
-           sodipodi:role="line">темы</tspan></text>
-      <rect
-         y="-47.637829"
-         x="800"
-         height="20"
-         width="20"
-         id="rect3823"
-         style="opacity:1;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    </g>
-    <g
-       id="g3870">
-      <rect
-         y="-47.637829"
-         x="1000"
-         height="200.10916"
-         width="149.69615"
-         id="rect3771"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.41316593;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <text
-         id="text3773"
-         y="2.36217"
-         x="1010"
-         style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-         xml:space="preserve"><tspan
-           id="tspan3775"
-           y="2.36217"
-           x="1010"
-           sodipodi:role="line">карта</tspan></text>
-      <rect
-         y="-47.637829"
-         x="1000"
-         height="20"
-         width="20"
-         id="rect3825"
-         style="opacity:1;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    </g>
-    <g
-       id="g3901">
-      <rect
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.41316593;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect3727"
-         width="149.69615"
-         height="200.10916"
-         x="800"
-         y="202.36217" />
-      <text
-         xml:space="preserve"
-         style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-         x="810"
-         y="252.36217"
-         id="text3729"><tspan
-           sodipodi:role="line"
-           x="810"
-           y="252.36217"
-           id="tspan3733">температура</tspan></text>
-      <rect
-         y="202.36217"
-         x="800"
-         height="20"
-         width="20"
-         id="rect3827"
-         style="opacity:1;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    </g>
-    <g
-       id="g3907">
+       id="g3907"
+       transform="translate(-199.69615,-500)">
       <rect
          y="202.36217"
          x="1000"
@@ -557,7 +395,7 @@
     </g>
     <g
        id="g4236"
-       transform="translate(-800,249.89086)">
+       transform="translate(-800.30383,-0.1091587)">
       <rect
          y="202.36217"
          x="800"
@@ -588,7 +426,7 @@
          y="202.36217" />
     </g>
     <g
-       transform="translate(-599.69617,249.89086)"
+       transform="translate(-600,-0.1091587)"
        id="g4248">
       <rect
          style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.41316593;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -619,5 +457,61 @@
          id="rect4258"
          style="opacity:1;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
+    <g
+       transform="translate(0.6076966,-500)"
+       id="g2493">
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.41316593;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect2495"
+         width="149.69615"
+         height="200.10916"
+         x="1000"
+         y="202.36217" />
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         x="1010"
+         y="252.36217"
+         id="text2497"><tspan
+           sodipodi:role="line"
+           x="1010"
+           y="252.36217"
+           id="tspan2499">справка</tspan></text>
+      <rect
+         style="opacity:1;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect2502"
+         width="20"
+         height="20"
+         x="1000"
+         y="202.36217" />
+    </g>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.41316593;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect2485"
+       width="149.69615"
+       height="200.10916"
+       x="200.30385"
+       y="-297.63782" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="210.30385"
+       y="-247.63783"
+       id="text2487"><tspan
+         sodipodi:role="line"
+         x="210.30385"
+         y="-247.63783"
+         id="tspan2489">главная для</tspan><tspan
+         id="tspan2491"
+         sodipodi:role="line"
+         x="210.30385"
+         y="-227.63783">пользователей</tspan></text>
+    <rect
+       y="-47.637829"
+       x="400"
+       height="20"
+       width="20"
+       id="rect3279"
+       style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   </g>
 </svg>

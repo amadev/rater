@@ -55,8 +55,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="477.56"
-     inkscape:cy="301.6413"
+     inkscape:cx="552.20793"
+     inkscape:cy="356.31443"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -64,8 +64,8 @@
      showguides="true"
      inkscape:window-width="1279"
      inkscape:window-height="945"
-     inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-x="50"
+     inkscape:window-y="50"
      inkscape:window-maximized="1"
      inkscape:snap-to-guides="false"
      inkscape:snap-grids="false"
@@ -226,124 +226,6 @@
          id="tspan5369"
          x="810"
          y="472.36218">логин и регистрация</tspan></text>
-    <g
-       id="g6188">
-      <g
-         transform="translate(0,19.999987)"
-         id="g5377">
-        <rect
-           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           id="rect5371"
-           width="150"
-           height="30"
-           x="250"
-           y="30"
-           transform="translate(0,452.36217)" />
-        <text
-           xml:space="preserve"
-           style="font-size:14px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-           x="280"
-           y="502.36218"
-           id="text5373"><tspan
-             sodipodi:role="line"
-             id="tspan5375"
-             x="280"
-             y="502.36218">о проекте</tspan></text>
-      </g>
-      <g
-         id="g5382"
-         transform="translate(160,19.999987)">
-        <g
-           id="g5392">
-          <rect
-             style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="rect5384"
-             width="150"
-             height="30"
-             x="250"
-             y="30"
-             transform="translate(0,452.36217)" />
-          <text
-             xml:space="preserve"
-             style="font-size:14px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-             x="280"
-             y="502.36218"
-             id="text5386"><tspan
-               sodipodi:role="line"
-               id="tspan5388"
-               x="280"
-               y="502.36218">температура</tspan></text>
-        </g>
-        <g
-           transform="translate(160,3.8281246e-7)"
-           id="g5397">
-          <rect
-             transform="translate(0,452.36217)"
-             y="30"
-             x="250"
-             height="30"
-             width="150"
-             id="rect5399"
-             style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-          <text
-             id="text5401"
-             y="502.36218"
-             x="306.23193"
-             style="font-size:14px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-             xml:space="preserve"><tspan
-               y="502.36218"
-               x="306.23193"
-               id="tspan5403"
-               sodipodi:role="line">темы</tspan></text>
-          <rect
-             style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="rect5405"
-             width="150"
-             height="30"
-             x="413.76807"
-             y="482.36218" />
-          <text
-             xml:space="preserve"
-             style="font-size:14px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-             x="470"
-             y="502.36218"
-             id="text5407"><tspan
-               sodipodi:role="line"
-               id="tspan5409"
-               x="470"
-               y="502.36218">карта</tspan></text>
-        </g>
-      </g>
-    </g>
-    <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.05967271;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect5411"
-       width="730.06342"
-       height="249.94032"
-       x="0.029836385"
-       y="552.39203" />
-    <text
-       xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-       x="80"
-       y="612.36218"
-       id="text5413"><tspan
-         sodipodi:role="line"
-         id="tspan5415"
-         x="80"
-         y="612.36218">вступительный текст</tspan><tspan
-         sodipodi:role="line"
-         x="80"
-         y="629.86218"
-         id="tspan5421">краткое описание проекта</tspan><tspan
-         sodipodi:role="line"
-         x="80"
-         y="647.36218"
-         id="tspan5417">почему проект может быть интересен пользователю</tspan><tspan
-         sodipodi:role="line"
-         x="80"
-         y="664.86218"
-         id="tspan5419">кнопки регистрации и логина</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot5423"
@@ -354,26 +236,7 @@
            height="40"
            x="46"
            y="254" /></flowRegion><flowPara
-         id="flowPara5429"></flowPara></flowRoot>    <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect5431"
-       width="270"
-       height="50"
-       x="80"
-       y="250"
-       transform="translate(0,452.36217)" />
-    <text
-       xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-       x="150"
-       y="732.36218"
-       id="text5433"><tspan
-         sodipodi:role="line"
-         id="tspan5435"
-         x="150"
-         y="732.36218"
-         style="font-size:20px">регистрация</tspan></text>
-    <text
+         id="flowPara5429" /></flowRoot>    <text
        xml:space="preserve"
        style="font-size:14px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
        x="790"
@@ -664,202 +527,6 @@
          d="M 770,230 L 950,230"
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
-    <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.10914135;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect5663"
-       width="319.87881"
-       height="309.97266"
-       x="0.054570653"
-       y="802.41675" />
-    <text
-       xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-       x="80"
-       y="842.36218"
-       id="text5665"><tspan
-         sodipodi:role="line"
-         id="tspan5667"
-         x="80"
-         y="842.36218">последние посты</tspan></text>
-    <g
-       id="g5711">
-      <g
-         transform="matrix(1.25,0,0,1.25,-42.375,-215.46556)"
-         id="g5679">
-        <rect
-           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           id="rect5673"
-           width="40"
-           height="40"
-           x="50"
-           y="862.36218" />
-        <text
-           xml:space="preserve"
-           style="font-size:14px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-           x="51"
-           y="884.36218"
-           id="text5675"><tspan
-             sodipodi:role="line"
-             id="tspan5677"
-             x="51"
-             y="884.36218">фото</tspan></text>
-      </g>
-      <text
-         id="text5684"
-         y="872.36218"
-         x="180"
-         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-         xml:space="preserve"><tspan
-           y="872.36218"
-           x="180"
-           id="tspan5686"
-           sodipodi:role="line">amadev</tspan></text>
-      <g
-         transform="translate(-70,0)"
-         id="g5698">
-        <rect
-           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.94506323;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           id="rect5688"
-           width="79.943825"
-           height="10.054936"
-           x="150"
-           y="862.36218" />
-        <path
-           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="M 190,410 L 190,420"
-           id="path5690"
-           transform="translate(0,452.36217)" />
-        <rect
-           style="opacity:1;fill:#ff8080;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           id="rect5692"
-           width="20"
-           height="10"
-           x="190"
-           y="862.36218" />
-      </g>
-      <text
-         id="text5694"
-         y="892.36218"
-         x="80"
-         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-         xml:space="preserve"><tspan
-           y="892.36218"
-           x="80"
-           id="tspan5696"
-           sodipodi:role="line">фильм &quot;бесславные ублюдки&quot; </tspan><tspan
-           id="tspan5703"
-           y="907.36218"
-           x="80"
-           sodipodi:role="line">лучший фильм тарантино, стал</tspan><tspan
-           id="tspan5705"
-           y="922.36218"
-           x="80"
-           sodipodi:role="line">относится к бреду питу</tspan><tspan
-           id="tspan5707"
-           y="937.36218"
-           x="80"
-           sodipodi:role="line">положительно )</tspan></text>
-      <path
-         transform="translate(0,452.36217)"
-         id="path5709"
-         d="M 20,500 L 290,500"
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    </g>
-    <g
-       id="g5729"
-       transform="translate(0,110)">
-      <g
-         id="g5731"
-         transform="matrix(1.25,0,0,1.25,-42.375,-215.46556)">
-        <rect
-           y="862.36218"
-           x="50"
-           height="40"
-           width="40"
-           id="rect5733"
-           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-        <text
-           id="text5735"
-           y="884.36218"
-           x="51"
-           style="font-size:14px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-           xml:space="preserve"><tspan
-             y="884.36218"
-             x="51"
-             id="tspan5737"
-             sodipodi:role="line">фото</tspan></text>
-      </g>
-      <text
-         xml:space="preserve"
-         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-         x="180"
-         y="872.36218"
-         id="text5739"><tspan
-           sodipodi:role="line"
-           id="tspan5741"
-           x="180"
-           y="872.36218">amadev</tspan></text>
-      <g
-         id="g5743"
-         transform="translate(-70,0)">
-        <rect
-           y="862.36218"
-           x="150"
-           height="10.054936"
-           width="79.943825"
-           id="rect5745"
-           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.94506323;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-        <path
-           transform="translate(0,452.36217)"
-           id="path5747"
-           d="M 190,410 L 190,420"
-           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-        <rect
-           y="862.36218"
-           x="190"
-           height="10"
-           width="20"
-           id="rect5749"
-           style="opacity:1;fill:#ff8080;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      </g>
-      <text
-         xml:space="preserve"
-         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-         x="80"
-         y="892.36218"
-         id="text5751"><tspan
-           sodipodi:role="line"
-           id="tspan5753"
-           x="80"
-           y="892.36218">фильм &quot;бесславные ублюдки&quot; </tspan><tspan
-           sodipodi:role="line"
-           x="80"
-           y="907.36218"
-           id="tspan5755">лучший фильм тарантино, стал</tspan><tspan
-           sodipodi:role="line"
-           x="80"
-           y="922.36218"
-           id="tspan5757">относится к бреду питу</tspan><tspan
-           sodipodi:role="line"
-           x="80"
-           y="937.36218"
-           id="tspan5759">положительно )</tspan></text>
-      <path
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="M 20,500 L 290,500"
-         id="path5761"
-         transform="translate(0,452.36217)" />
-    </g>
-    <text
-       xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-       x="230"
-       y="1092.3622"
-       id="text5763"><tspan
-         sodipodi:role="line"
-         id="tspan5765"
-         x="230"
-         y="1092.3622">все посты</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
@@ -885,37 +552,49 @@
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-       x="-260"
-       y="922.36218"
+       x="-250"
+       y="882.36218"
        id="text5781"><tspan
          sodipodi:role="line"
          id="tspan5783"
-         x="-260"
-         y="922.36218">думаю модерацию надо пока делать</tspan><tspan
+         x="-250"
+         y="882.36218">думаю модерацию надо пока делать</tspan><tspan
          sodipodi:role="line"
-         x="-260"
-         y="937.36218"
+         x="-250"
+         y="897.36218"
          id="tspan5787">вручную,</tspan><tspan
          sodipodi:role="line"
-         x="-260"
-         y="952.36218"
+         x="-250"
+         y="912.36218"
          id="tspan5791">но очень простую:</tspan><tspan
          sodipodi:role="line"
-         x="-260"
-         y="967.36218"
+         x="-250"
+         y="927.36218"
          id="tspan5793">в идеале это клиент в трее</tspan><tspan
          sodipodi:role="line"
-         x="-260"
-         y="982.36218"
+         x="-250"
+         y="942.36218"
          id="tspan5795">в котором у модераторов (у нас  :))</tspan><tspan
          sodipodi:role="line"
-         x="-260"
-         y="997.36218"
+         x="-250"
+         y="957.36218"
          id="tspan5797">всплывают сообщения,</tspan><tspan
          sodipodi:role="line"
-         x="-260"
-         y="1012.3622"
-         id="tspan5799">и есть кнопки да и нет</tspan></text>
+         x="-250"
+         y="972.36218"
+         id="tspan5799">и есть кнопки да и нет.</tspan><tspan
+         sodipodi:role="line"
+         x="-250"
+         y="987.36218"
+         id="tspan3513">После успешной модерации</tspan><tspan
+         sodipodi:role="line"
+         x="-250"
+         y="1002.3622"
+         id="tspan3515">пользователь может постить</tspan><tspan
+         sodipodi:role="line"
+         x="-250"
+         y="1017.3622"
+         id="tspan3517">без модерации.</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
@@ -934,23 +613,6 @@
          x="1040"
          y="682.36218"
          id="tspan5823">температура недели или месяца</tspan></text>
-    <rect
-       y="802.48981"
-       x="320.12766"
-       height="309.82648"
-       width="409.94403"
-       id="rect5831"
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.25531876;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <text
-       xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-       x="390"
-       y="842.36218"
-       id="text5909"><tspan
-         sodipodi:role="line"
-         id="tspan5911"
-         x="390"
-         y="842.36218">темы </tspan></text>
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
@@ -962,83 +624,35 @@
          id="tspan5915"
          x="378"
          y="427" /></text>
-    <g
-       id="g5953"
-       transform="translate(0,9.9999874)">
-      <text
-         id="text5917"
-         y="892.36218"
-         x="360"
-         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-         xml:space="preserve"><tspan
-           y="892.36218"
-           x="360"
-           id="tspan5919"
-           sodipodi:role="line">фильмы <tspan
-   id="tspan5925"
-   style="font-size:16px">тарантино</tspan> музыка политика шоу-бизнес</tspan><tspan
-           id="tspan5921"
-           y="916.34918"
-           x="360"
-           sodipodi:role="line">танцы программирование <tspan
-   id="tspan5927"
-   style="font-size:20px">математика</tspan> сайты</tspan><tspan
-           id="tspan5923"
-           y="933.37518"
-           x="360"
-           sodipodi:role="line">opencource, блоги</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-         x="360"
-         y="962.36218"
-         id="text5929"><tspan
-           sodipodi:role="line"
-           id="tspan5931"
-           x="360"
-           y="962.36218">фильмы <tspan
-   style="font-size:16px"
-   id="tspan5933">тарантино</tspan> музыка политика шоу-бизнес</tspan><tspan
-           sodipodi:role="line"
-           x="360"
-           y="986.34918"
-           id="tspan5935">танцы программирование <tspan
-   style="font-size:20px"
-   id="tspan5937">математика</tspan> сайты</tspan><tspan
-           sodipodi:role="line"
-           x="360"
-           y="1003.3752"
-           id="tspan5939">opencource, блоги</tspan></text>
-    </g>
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-       x="-260"
-       y="1092.3622"
+       x="-250"
+       y="702.36218"
        id="text5967"><tspan
          sodipodi:role="line"
          id="tspan5969"
-         x="-260"
-         y="1092.3622">те посты, где пользователи выбрали</tspan><tspan
+         x="-250"
+         y="702.36218">те посты, где пользователи выбрали</tspan><tspan
          sodipodi:role="line"
-         x="-260"
-         y="1107.3622"
+         x="-250"
+         y="717.36218"
          id="tspan5971">предложенный нами вариант</tspan><tspan
          sodipodi:role="line"
-         x="-260"
-         y="1122.3622"
+         x="-250"
+         y="732.36218"
          id="tspan5973">могут использоваться в группировках</tspan><tspan
          sodipodi:role="line"
-         x="-260"
-         y="1137.3622"
+         x="-250"
+         y="747.36218"
          id="tspan5975">по темам, естественно мы  сами </tspan><tspan
          sodipodi:role="line"
-         x="-260"
-         y="1152.3622"
+         x="-250"
+         y="762.36218"
          id="tspan5977">должны разделять предложенные </tspan><tspan
          sodipodi:role="line"
-         x="-260"
-         y="1167.3622"
+         x="-250"
+         y="777.36218"
          id="tspan5979">нами источники по темам</tspan></text>
     <rect
        style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.01868474;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -1047,162 +661,6 @@
        height="310.06311"
        x="729.93768"
        y="802.41736" />
-    <text
-       xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-       x="770"
-       y="842.36218"
-       id="text5983"><tspan
-         sodipodi:role="line"
-         id="tspan5985"
-         x="770"
-         y="842.36218">последние зарегистрированные</tspan></text>
-    <g
-       id="g6091">
-      <g
-         id="g5989"
-         transform="matrix(1.25,0,0,1.25,706.25,-213.09056)">
-        <rect
-           y="862.36218"
-           x="50"
-           height="40"
-           width="40"
-           id="rect5991"
-           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-        <text
-           id="text5993"
-           y="884.36218"
-           x="51"
-           style="font-size:14px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-           xml:space="preserve"><tspan
-             y="884.36218"
-             x="51"
-             id="tspan5995"
-             sodipodi:role="line">фото</tspan></text>
-      </g>
-      <text
-         xml:space="preserve"
-         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-         x="830"
-         y="892.36218"
-         id="text5997"><tspan
-           sodipodi:role="line"
-           id="tspan5999"
-           x="830"
-           y="892.36218">amadev</tspan></text>
-      <text
-         id="text6037"
-         y="872.36218"
-         x="830"
-         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-         xml:space="preserve"><tspan
-           y="872.36218"
-           x="830"
-           id="tspan6039"
-           sodipodi:role="line">27 сентября 2009г.</tspan></text>
-      <path
-         id="path6041"
-         d="M 770,932.36217 L 980,932.36217"
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    </g>
-    <g
-       id="g6102"
-       transform="translate(0,80)">
-      <g
-         transform="matrix(1.25,0,0,1.25,706.25,-213.09056)"
-         id="g6104">
-        <rect
-           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           id="rect6106"
-           width="40"
-           height="40"
-           x="50"
-           y="862.36218" />
-        <text
-           xml:space="preserve"
-           style="font-size:14px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-           x="51"
-           y="884.36218"
-           id="text6108"><tspan
-             sodipodi:role="line"
-             id="tspan6110"
-             x="51"
-             y="884.36218">фото</tspan></text>
-      </g>
-      <text
-         id="text6112"
-         y="892.36218"
-         x="830"
-         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-         xml:space="preserve"><tspan
-           y="892.36218"
-           x="830"
-           id="tspan6114"
-           sodipodi:role="line">amadev</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-         x="830"
-         y="872.36218"
-         id="text6116"><tspan
-           sodipodi:role="line"
-           id="tspan6118"
-           x="830"
-           y="872.36218">27 сентября 2009г.</tspan></text>
-      <path
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="M 770,932.36217 L 980,932.36217"
-         id="path6120" />
-    </g>
-    <g
-       transform="translate(0,160)"
-       id="g6122">
-      <g
-         id="g6124"
-         transform="matrix(1.25,0,0,1.25,706.25,-213.09056)">
-        <rect
-           y="862.36218"
-           x="50"
-           height="40"
-           width="40"
-           id="rect6126"
-           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-        <text
-           id="text6128"
-           y="884.36218"
-           x="51"
-           style="font-size:14px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-           xml:space="preserve"><tspan
-             y="884.36218"
-             x="51"
-             id="tspan6130"
-             sodipodi:role="line">фото</tspan></text>
-      </g>
-      <text
-         xml:space="preserve"
-         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-         x="830"
-         y="892.36218"
-         id="text6132"><tspan
-           sodipodi:role="line"
-           id="tspan6134"
-           x="830"
-           y="892.36218">amadev</tspan></text>
-      <text
-         id="text6136"
-         y="872.36218"
-         x="830"
-         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-         xml:space="preserve"><tspan
-           y="872.36218"
-           x="830"
-           id="tspan6138"
-           sodipodi:role="line">27 сентября 2009г.</tspan></text>
-      <path
-         id="path6140"
-         d="M 770,932.36217 L 980,932.36217"
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    </g>
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
@@ -1226,22 +684,21 @@
          x="1044"
          y="310"
          id="tspan6150">недулю или температуру города</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-       x="50"
-       y="1140.3622"
-       id="text6152"><tspan
-         sodipodi:role="line"
-         id="tspan6154"
-         x="50"
-         y="1140.3622">копирайт</tspan></text>
     <g
-       id="g6206"
-       transform="matrix(0.5117752,0,0,0.5117752,-9.9438,871.26568)">
+       id="g3525">
+      <text
+         id="text6152"
+         y="1140.3622"
+         x="50"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="1140.3622"
+           x="50"
+           id="tspan6154"
+           sodipodi:role="line">копирайт</tspan></text>
       <g
          id="g6208"
-         transform="translate(0,19.999987)">
+         transform="matrix(0.5117752,0,0,0.5117752,-9.9438,881.50118)">
         <rect
            transform="translate(0,452.36217)"
            y="30"
@@ -1262,68 +719,274 @@
              sodipodi:role="line">о проекте</tspan></text>
       </g>
       <g
-         transform="translate(160,19.999987)"
-         id="g6216">
-        <g
-           id="g6218">
-          <rect
-             transform="translate(0,452.36217)"
-             y="30"
-             x="250"
-             height="30"
-             width="150"
-             id="rect6220"
-             style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-          <text
-             id="text6222"
-             y="502.36218"
+         transform="matrix(0.5117752,0,0,0.5117752,71.940232,881.50118)"
+         id="g6218">
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect6220"
+           width="150"
+           height="30"
+           x="250"
+           y="30"
+           transform="translate(0,452.36217)" />
+        <text
+           xml:space="preserve"
+           style="font-size:14px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+           x="280"
+           y="502.36218"
+           id="text6222"><tspan
+             sodipodi:role="line"
+             id="tspan6224"
              x="280"
-             style="font-size:14px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-             xml:space="preserve"><tspan
-               y="502.36218"
-               x="280"
-               id="tspan6224"
-               sodipodi:role="line">температура</tspan></text>
-        </g>
-        <g
-           id="g6226"
-           transform="translate(160,3.8281246e-7)">
-          <rect
-             style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="rect6228"
-             width="150"
-             height="30"
-             x="250"
-             y="30"
-             transform="translate(0,452.36217)" />
-          <text
-             xml:space="preserve"
-             style="font-size:14px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-             x="306.23193"
+             y="502.36218">справка</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3548">
+      <g
+         transform="translate(0,19.999987)"
+         id="g5377">
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect5371"
+           width="150"
+           height="30"
+           x="250"
+           y="30"
+           transform="translate(0,452.36217)" />
+        <text
+           xml:space="preserve"
+           style="font-size:14px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+           x="280"
+           y="502.36218"
+           id="text5373"><tspan
+             sodipodi:role="line"
+             id="tspan5375"
+             x="280"
+             y="502.36218">о проекте</tspan></text>
+      </g>
+      <g
+         transform="translate(160,19.999987)"
+         id="g5392">
+        <rect
+           transform="translate(0,452.36217)"
+           y="30"
+           x="250"
+           height="30"
+           width="150"
+           id="rect5384"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           id="text5386"
+           y="502.36218"
+           x="296"
+           style="font-size:14px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+           xml:space="preserve"><tspan
              y="502.36218"
-             id="text6230"><tspan
-               sodipodi:role="line"
-               id="tspan6232"
-               x="306.23193"
-               y="502.36218">темы</tspan></text>
-          <rect
-             y="482.36218"
-             x="413.76807"
-             height="30"
-             width="150"
-             id="rect6234"
-             style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-          <text
-             id="text6236"
-             y="502.36218"
-             x="470"
-             style="font-size:14px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-             xml:space="preserve"><tspan
-               y="502.36218"
-               x="470"
-               id="tspan6238"
-               sodipodi:role="line">карта</tspan></text>
-        </g>
+             x="296"
+             id="tspan5388"
+             sodipodi:role="line">справка</tspan></text>
+      </g>
+      <rect
+         y="502.36215"
+         x="570"
+         height="30"
+         width="150"
+         id="rect5399"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text5401"
+         y="522.36218"
+         x="590.23193"
+         style="font-size:14px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="522.36218"
+           x="590.23193"
+           id="tspan5403"
+           sodipodi:role="line">фильр по стране</tspan></text>
+      <rect
+         transform="translate(0,452.36217)"
+         y="50"
+         x="750"
+         height="30"
+         width="180"
+         id="rect2662"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text2664"
+         y="522.36218"
+         x="822"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           style="font-size:14px"
+           y="522.36218"
+           x="822"
+           id="tspan2666"
+           sodipodi:role="line">поиск</tspan></text>
+    </g>
+    <g
+       id="g3579">
+      <text
+         id="text2668"
+         y="842.36218"
+         x="810"
+         style="font-size:14px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="842.36218"
+           x="810"
+           id="tspan2670"
+           sodipodi:role="line">Интересное</tspan></text>
+      <text
+         id="text2672"
+         y="872.36218"
+         x="770"
+         style="font-size:14px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="872.36218"
+           x="770"
+           id="tspan2674"
+           sodipodi:role="line">Средняя оценка - название</tspan><tspan
+           id="tspan2676"
+           y="889.86218"
+           x="770"
+           sodipodi:role="line" /><tspan
+           id="tspan2678"
+           y="907.36218"
+           x="770"
+           sodipodi:role="line" /></text>
+      <text
+         transform="translate(0,452.36217)"
+         id="text2680"
+         y="468"
+         x="767"
+         style="font-size:14;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="468"
+           x="767"
+           id="tspan2682"
+           sodipodi:role="line">Группировка идет по названию </tspan><tspan
+           id="tspan2686"
+           y="483"
+           x="767"
+           sodipodi:role="line">оцениваемого объекта</tspan><tspan
+           id="tspan2684"
+           y="498"
+           x="767"
+           sodipodi:role="line" /></text>
+    </g>
+    <g
+       id="g3503">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.73449093;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect3489"
+         width="729.98431"
+         height="120.09164"
+         x="0.015390579"
+         y="682.44568" />
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         x="70"
+         y="742.36218"
+         id="text3491"><tspan
+           sodipodi:role="line"
+           id="tspan3493"
+           x="70"
+           y="742.36218"
+           style="font-size:20px">популярные темы</tspan></text>
+    </g>
+    <g
+       id="g3475">
+      <rect
+         y="552.27448"
+         x="-0.14742719"
+         height="130.18457"
+         width="730.14728"
+         id="rect5411"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.76481831;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text3485"
+         y="622.36218"
+         x="70"
+         style="font-size:14px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           style="font-size:20px"
+           y="622.36218"
+           x="70"
+           id="tspan3487"
+           sodipodi:role="line">форма добавления поста</tspan></text>
+      <text
+         transform="translate(0,452.36217)"
+         id="text3495"
+         y="142.09274"
+         x="372.64526"
+         style="font-size:14px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="142.09274"
+           x="372.64526"
+           id="tspan3497"
+           sodipodi:role="line">после постинга анонимным пользователем</tspan><tspan
+           id="tspan3499"
+           y="159.59274"
+           x="372.64526"
+           sodipodi:role="line">данные сохраняются в куки и предлагается</tspan><tspan
+           id="tspan3501"
+           y="177.09274"
+           x="372.64526"
+           sodipodi:role="line">регистрация в случае успешной регистрации</tspan><tspan
+           id="tspan3503"
+           y="194.59274"
+           x="372.64526"
+           sodipodi:role="line">пост автоматически сохраняется в базе</tspan></text>
+    </g>
+    <g
+       id="g3556">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.99947304;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect5831"
+         width="729.86145"
+         height="309.40756"
+         x="0.00079117727"
+         y="802.69928" />
+      <text
+         id="text3505"
+         y="832.36218"
+         x="70"
+         style="font-size:14px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="832.36218"
+           x="70"
+           id="tspan3507"
+           sodipodi:role="line">новое</tspan></text>
+      <g
+         id="g3512">
+        <text
+           xml:space="preserve"
+           style="font-size:14px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+           x="70.003571"
+           y="865.98395"
+           id="text3509"><tspan
+             sodipodi:role="line"
+             id="tspan3511"
+             x="70.003571"
+             y="865.98395">дата - оценка - тема - коммент - пользователь</tspan></text>
+        <rect
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.4586792;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect3519"
+           width="200.18465"
+           height="29.760956"
+           x="70.22934"
+           y="1062.3718" />
+        <text
+           xml:space="preserve"
+           style="font-size:14px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+           x="90"
+           y="1082.3622"
+           id="text3521"><tspan
+             sodipodi:role="line"
+             id="tspan3523"
+             x="90"
+             y="1082.3622">pager для ajax-подгрузки</tspan></text>
       </g>
     </g>
   </g>

@@ -13,7 +13,7 @@
    id="svg2"
    version="1.0"
    inkscape:version="0.46"
-   sodipodi:docname="login.svg"
+   sodipodi:docname="profile.svg"
    sodipodi:version="0.32"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <defs
@@ -55,8 +55,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="481.16609"
-     inkscape:cy="335.7913"
+     inkscape:cx="581.65855"
+     inkscape:cy="309.86217"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -269,353 +269,6 @@
          id="tspan5915"
          x="378"
          y="427" /></text>
-    <text
-       xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-       x="1050.5781"
-       y="478.11536"
-       id="text3551"><tspan
-         sodipodi:role="line"
-         id="tspan3553"
-         x="1050.5781"
-         y="478.11536">при наведении на кнопку google,</tspan><tspan
-         sodipodi:role="line"
-         x="1050.5781"
-         y="498.11536"
-         id="tspan3555">появляется всплывающая подсказка:</tspan><tspan
-         sodipodi:role="line"
-         x="1050.5781"
-         y="518.11536"
-         id="tspan3557">быстрый вход через google-аккаунт</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-       x="1050.5703"
-       y="581.64288"
-       id="text3559"><tspan
-         sodipodi:role="line"
-         x="1050.5703"
-         y="581.64288"
-         id="tspan3563">регистрация происходит через ajax-запрос,</tspan><tspan
-         sodipodi:role="line"
-         x="1050.5703"
-         y="601.64288"
-         id="tspan3567">в случае успеха - редирект на главную </tspan><tspan
-         sodipodi:role="line"
-         x="1050.5703"
-         y="621.64288"
-         id="tspan3569">страницу для зарегистрированных</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-       x="1050.5703"
-       y="695.729"
-       id="text3571"><tspan
-         sodipodi:role="line"
-         id="tspan3573"
-         x="1050.5703"
-         y="695.729">при нажатии на кнопку openid открывается закладка</tspan><tspan
-         sodipodi:role="line"
-         x="1050.5703"
-         y="715.729"
-         id="tspan3575">с одним полем ввода и кнопкой вход</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-       x="1050.5703"
-       y="778.69794"
-       id="text3581"><tspan
-         sodipodi:role="line"
-         id="tspan3583"
-         x="1050.5703"
-         y="778.69794">при нажатии на google отправляеся запрос на вход,</tspan><tspan
-         sodipodi:role="line"
-         x="1050.5703"
-         y="798.69794"
-         id="tspan3585">в случае неудачи отображается страница с закладкой</tspan><tspan
-         sodipodi:role="line"
-         x="1050.5703"
-         y="818.69794"
-         id="tspan3587">google и причиной ошибки. в случае удачи - редирект</tspan><tspan
-         sodipodi:role="line"
-         x="1050.5703"
-         y="838.698"
-         id="tspan3589">на главную</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-       x="1050"
-       y="902.36218"
-       id="text3640"><tspan
-         sodipodi:role="line"
-         id="tspan3642"
-         x="1050"
-         y="902.36218">при перебросе на страницу восстановления</tspan><tspan
-         sodipodi:role="line"
-         x="1050"
-         y="922.36218"
-         id="tspan3644">использовать текущий введенный email</tspan></text>
-    <g
-       id="g3668"
-       transform="translate(0,-22)">
-      <text
-         id="text3459"
-         y="769.53162"
-         x="350"
-         style="font-size:19.50520325px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-         xml:space="preserve"><tspan
-           id="tspan3463"
-           y="769.53162"
-           x="350"
-           sodipodi:role="line">email:</tspan></text>
-      <rect
-         y="778.73499"
-         x="350"
-         height="36.813599"
-         width="276.10199"
-         id="rect3467"
-         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.92033994;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <text
-         xml:space="preserve"
-         style="font-size:19.50520325px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-         x="350"
-         y="843.15881"
-         id="text3475"><tspan
-           sodipodi:role="line"
-           x="350"
-           y="843.15881"
-           id="tspan3477">пароль:</tspan></text>
-      <rect
-         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.92033994;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect3479"
-         width="276.10199"
-         height="36.813599"
-         x="350"
-         y="852.36218" />
-      <g
-         transform="matrix(0.92034,0,0,0.92034,29.266239,118.08855)"
-         id="g3601">
-        <rect
-           y="972.2168"
-           x="350.0654"
-           height="40.290821"
-           width="149.79082"
-           id="rect3481"
-           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.70917767;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-        <text
-           xml:space="preserve"
-           style="font-size:21px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-           x="398.46985"
-           y="996.79187"
-           id="text3483"><tspan
-             sodipodi:role="line"
-             id="tspan3485"
-             x="398.46985"
-             y="996.79187">вход</tspan></text>
-      </g>
-      <rect
-         style="fill:#ffaaaa;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect3545"
-         width="276.10199"
-         height="36.813599"
-         x="349.80597"
-         y="695.90442" />
-      <g
-         transform="translate(-14.960188,-26.457776)"
-         id="g3515">
-        <rect
-           style="opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           id="rect2679"
-           width="150"
-           height="40"
-           x="100"
-           y="200"
-           transform="translate(0,452.36217)" />
-        <text
-           xml:space="preserve"
-           style="font-size:16px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-           x="150.33203"
-           y="678.32703"
-           id="text2685"><tspan
-             sodipodi:role="line"
-             id="tspan2687"
-             x="150.33203"
-             y="678.32703">войти</tspan></text>
-        <rect
-           y="652.36218"
-           x="270"
-           height="40"
-           width="150"
-           id="rect3487"
-           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-        <text
-           id="text3489"
-           y="676.77625"
-           x="318.01953"
-           style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-           xml:space="preserve"><tspan
-             y="676.77625"
-             x="318.01953"
-             id="tspan3491"
-             sodipodi:role="line">openid</tspan></text>
-        <rect
-           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           id="rect3493"
-           width="150"
-           height="40"
-           x="440"
-           y="652.36218" />
-        <text
-           xml:space="preserve"
-           style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-           x="487.90625"
-           y="676.77625"
-           id="text3495"><tspan
-             sodipodi:role="line"
-             id="tspan3497"
-             x="487.90625"
-             y="676.77625">google</tspan></text>
-        <rect
-           y="652.36218"
-           x="610"
-           height="40"
-           width="150"
-           id="rect3499"
-           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-        <text
-           id="text3501"
-           y="676.77625"
-           x="655.71094"
-           style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-           xml:space="preserve"><tspan
-             y="676.77625"
-             x="655.71094"
-             sodipodi:role="line"
-             id="tspan3511">yandex</tspan></text>
-        <rect
-           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           id="rect3505"
-           width="150"
-           height="40"
-           x="780"
-           y="652.36218" />
-        <text
-           xml:space="preserve"
-           style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-           x="822.76562"
-           y="678.32703"
-           id="text3507"><tspan
-             sodipodi:role="line"
-             id="tspan3509"
-             x="822.76562"
-             y="678.32703">rambler</tspan></text>
-      </g>
-      <text
-         id="text3547"
-         y="717.99255"
-         x="371.89413"
-         style="font-size:11.04407978px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-         xml:space="preserve"><tspan
-           y="717.99255"
-           x="371.89413"
-           id="tspan3549"
-           sodipodi:role="line">Неверный логин пароль</tspan></text>
-      <g
-         transform="matrix(0.92034,0,0,0.92034,27.79601,55.780169)"
-         id="g3616">
-        <rect
-           style="opacity:1;fill:#ffaaaa;fill-opacity:1;stroke:none;stroke-width:1.18466961;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           id="rect3606"
-           width="299.81534"
-           height="70.215332"
-           x="350.09235"
-           y="952.45453" />
-        <text
-           xml:space="preserve"
-           style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-           x="362"
-           y="972.36218"
-           id="text3608"><tspan
-             sodipodi:role="line"
-             id="tspan3610"
-             x="362"
-             y="972.36218">после 3 неправильных вводов</tspan><tspan
-             sodipodi:role="line"
-             x="362"
-             y="992.36218"
-             id="tspan3612">устанавливается вход с каптчей</tspan><tspan
-             sodipodi:role="line"
-             x="362"
-             y="1012.3622"
-             id="tspan3614">на 20 минут для данного ip</tspan></text>
-      </g>
-      <text
-         transform="translate(0,452.36217)"
-         id="text3636"
-         y="630"
-         x="350"
-         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-         xml:space="preserve"><tspan
-           y="630"
-           x="350"
-           id="tspan3638"
-           sodipodi:role="line">Забыли пароль?</tspan></text>
-      <text
-         id="text3646"
-         y="916.36218"
-         x="378"
-         style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-         xml:space="preserve"><tspan
-           y="916.36218"
-           x="378"
-           id="tspan3648"
-           sodipodi:role="line">запомнить меня</tspan></text>
-      <rect
-         transform="translate(0,452.36217)"
-         y="450"
-         x="350"
-         height="20"
-         width="20"
-         id="rect3650"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    </g>
-    <text
-       xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-       x="1050"
-       y="972.36218"
-       id="text3652"><tspan
-         sodipodi:role="line"
-         id="tspan3654"
-         x="1050"
-         y="972.36218">пользователи привязываются по ip,</tspan><tspan
-         sodipodi:role="line"
-         x="1050"
-         y="992.36218"
-         id="tspan3656">т.е. нельзя зайти с кукой с ip отличного</tspan><tspan
-         sodipodi:role="line"
-         x="1050"
-         y="1012.3622"
-         id="tspan3658">от того с которого логинились</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-       x="1051.4678"
-       y="606.66193"
-       id="text3660"
-       transform="translate(0,452.36217)"><tspan
-         sodipodi:role="line"
-         id="tspan3662"
-         x="1051.4678"
-         y="606.66193">по умолчанию срок жизни кук устанавливается</tspan><tspan
-         sodipodi:role="line"
-         x="1051.4678"
-         y="626.66193"
-         id="tspan3664">на сессию, если указано запомнить пользователя</tspan><tspan
-         sodipodi:role="line"
-         x="1051.4678"
-         y="646.66193"
-         id="tspan3666">то на 1 неделю</tspan></text>
     <g
        id="g3548"
        transform="translate(-10,0)">
@@ -757,6 +410,207 @@
              x="280"
              y="502.36218">справка</tspan></text>
       </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="250"
+       y="612.36218"
+       id="text2522"><tspan
+         sodipodi:role="line"
+         id="tspan2524"
+         x="250"
+         y="612.36218">Просмотр профиля</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="250"
+       y="662.36218"
+       id="text2526"><tspan
+         sodipodi:role="line"
+         x="250"
+         y="714.86218"
+         id="tspan2534" /></text>
+    <g
+       id="g2480"
+       transform="translate(-237.81409,10.199755)">
+      <rect
+         y="592.16241"
+         x="449.80023"
+         height="18.013857"
+         width="18.013857"
+         id="rect2474"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.6004619;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text2476"
+         y="612.16241"
+         x="449.69577"
+         style="font-size:31.20417023px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="612.16241"
+           x="449.69577"
+           id="tspan2478"
+           sodipodi:role="line">+</tspan></text>
+    </g>
+    <rect
+       y="802.68964"
+       x="189.58681"
+       height="309.40756"
+       width="729.86145"
+       id="rect5831"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.99947304;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <g
+       id="g3512"
+       transform="translate(189.58601,-9.6561719e-3)">
+      <text
+         id="text3509"
+         y="865.98395"
+         x="70.003571"
+         style="font-size:14px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="865.98395"
+           x="70.003571"
+           id="tspan3511"
+           sodipodi:role="line">дата - оценка - тема - коммент - пользователь</tspan></text>
+      <rect
+         y="1062.3718"
+         x="70.22934"
+         height="29.760956"
+         width="200.18465"
+         id="rect3519"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.4586792;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text3521"
+         y="1082.3622"
+         x="90"
+         style="font-size:14px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="1082.3622"
+           x="90"
+           id="tspan3523"
+           sodipodi:role="line">pager для ajax-подгрузки</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="250"
+       y="642.36218"
+       id="text2604"><tspan
+         sodipodi:role="line"
+         id="tspan2606"
+         x="250"
+         y="642.36218">ник</tspan><tspan
+         sodipodi:role="line"
+         x="250"
+         y="659.86218"
+         id="tspan4136">пол</tspan><tspan
+         sodipodi:role="line"
+         x="250"
+         y="677.36218"
+         id="tspan4052">дата рождения</tspan><tspan
+         sodipodi:role="line"
+         x="250"
+         y="694.86218"
+         id="tspan4050">сайт</tspan><tspan
+         sodipodi:role="line"
+         x="250"
+         y="712.36218"
+         id="tspan4056" /><tspan
+         sodipodi:role="line"
+         x="250"
+         y="729.86218"
+         id="tspan4058">друзья</tspan><tspan
+         sodipodi:role="line"
+         x="250"
+         y="747.36218"
+         id="tspan2624" /><tspan
+         sodipodi:role="line"
+         x="250"
+         y="764.86218"
+         id="tspan2616" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="266"
+       y="262"
+       id="text4046"
+       transform="translate(0,452.36217)"><tspan
+         sodipodi:role="line"
+         id="tspan4048"
+         x="266"
+         y="262" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4066"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Bitstream Vera Sans;font-style:normal;font-weight:normal;font-size:12"><flowRegion
+         id="flowRegion4068"><rect
+           id="rect4070"
+           width="69"
+           height="82"
+           x="245"
+           y="312" /></flowRegion><flowPara
+         id="flowPara4072" /></flowRoot>    <g
+       id="g4121"
+       transform="translate(-30.095612,0.1043575)">
+      <rect
+         y="602.25781"
+         x="450.09561"
+         height="180.10437"
+         width="379.90439"
+         id="rect4060"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.0956248;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text4062"
+         y="622.25781"
+         x="500.09561"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="622.25781"
+           x="500.09561"
+           id="tspan4064"
+           sodipodi:role="line">всплывающее окно c дополнительной информацией</tspan></text>
+      <text
+         id="text4101"
+         y="652.25781"
+         x="500.09561"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="652.25781"
+           x="500.09561"
+           id="tspan4103"
+           sodipodi:role="line">страна</tspan><tspan
+           id="tspan4105"
+           y="667.25781"
+           x="500.09561"
+           sodipodi:role="line">город</tspan><tspan
+           id="tspan4107"
+           y="682.25781"
+           x="500.09561"
+           sodipodi:role="line">icq</tspan><tspan
+           id="tspan4109"
+           y="697.25781"
+           x="500.09561"
+           sodipodi:role="line">skype</tspan><tspan
+           id="tspan4111"
+           y="712.25781"
+           x="500.09561"
+           sodipodi:role="line">jabber</tspan><tspan
+           id="tspan4113"
+           y="727.25781"
+           x="500.09561"
+           sodipodi:role="line">о себе</tspan><tspan
+           id="tspan4115"
+           y="742.25781"
+           x="500.09561"
+           sodipodi:role="line">интересы</tspan><tspan
+           id="tspan4117"
+           y="757.25781"
+           x="500.09561"
+           sodipodi:role="line">дата регистрации</tspan><tspan
+           id="tspan4119"
+           y="772.25781"
+           x="500.09561"
+           sodipodi:role="line">дата последнего входа</tspan></text>
     </g>
   </g>
 </svg>
