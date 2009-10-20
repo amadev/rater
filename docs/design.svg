@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1150"
+   height="1000"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   version="1.0"
+   sodipodi:docname="design.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3580">
+      <stop
+         style="stop-color:#808080;stop-opacity:1;"
+         offset="0"
+         id="stop3582" />
+      <stop
+         style="stop-color:#808080;stop-opacity:0;"
+         offset="1"
+         id="stop3584" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3521">
+      <stop
+         style="stop-color:#bfd8e7;stop-opacity:1;"
+         offset="0"
+         id="stop3523" />
+      <stop
+         style="stop-color:#bfd8e7;stop-opacity:0;"
+         offset="1"
+         id="stop3525" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3521"
+       id="linearGradient3527"
+       x1="470"
+       y1="530"
+       x2="470"
+       y2="40"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.1734695,0,0,1.2244898,0,-8.9795918)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3580"
+       id="linearGradient3586"
+       x1="575"
+       y1="480.5213"
+       x2="575"
+       y2="69.56031"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.9998713,0,0,1.2682348,7.3976315e-2,-18.729569)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="50"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="580.16066"
+     inkscape:cy="676.06267"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1279"
+     inkscape:window-height="945"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
+     showborder="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2383"
+       visible="true"
+       enabled="true"
+       spacingx="10px"
+       spacingy="10px"
+       dotted="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="background"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#2e2e2e;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect2409"
+       width="1150"
+       height="40"
+       x="2.8421709e-14"
+       y="0" />
+    <g
+       id="g3565"
+       transform="translate(-90,0)">
+      <rect
+         ry="2"
+         rx="2"
+         y="10"
+         x="870"
+         height="20"
+         width="130"
+         id="rect3425"
+         style="opacity:1;fill:#828282;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         ry="2"
+         rx="2"
+         y="10"
+         x="1010"
+         height="20"
+         width="50"
+         id="rect3427"
+         style="opacity:1;fill:#222222;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text3429"
+         y="23.002441"
+         x="1017.7937"
+         style="font-size:11px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           style="font-size:11px;fill:#ffffff"
+           y="23.002441"
+           x="1017.7937"
+           id="tspan3431"
+           sodipodi:role="line">поиск</tspan></text>
+      <g
+         transform="translate(200,0)"
+         id="g3437">
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#232323;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 870,10 L 870,30"
+           id="path3433" />
+        <path
+           id="path3435"
+           d="M 871.02772,10 L 871.02772,30"
+           style="fill:none;fill-rule:evenodd;stroke:#404040;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+      <rect
+         style="opacity:1;fill:#222222;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect3441"
+         width="70"
+         height="20"
+         x="1080"
+         y="10"
+         rx="2.8"
+         ry="2" />
+      <text
+         xml:space="preserve"
+         style="font-size:11px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         x="1086.1357"
+         y="22.436279"
+         id="text3443"><tspan
+           sodipodi:role="line"
+           id="tspan3445"
+           x="1086.1357"
+           y="22.436279"
+           style="font-size:11px;fill:#ffffff">о проекте</tspan></text>
+      <rect
+         ry="2"
+         rx="2.8"
+         y="10"
+         x="1160"
+         height="20"
+         width="70"
+         id="rect3447"
+         style="opacity:1;fill:#222222;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text3449"
+         y="22.436279"
+         x="1171.77"
+         style="font-size:11px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           style="font-size:11px;fill:#ffffff"
+           y="22.436279"
+           x="1171.77"
+           id="tspan3451"
+           sodipodi:role="line">справка</tspan></text>
+    </g>
+    <g
+       id="g3535">
+      <rect
+         style="opacity:1;fill:#222222;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect3453"
+         width="70"
+         height="20"
+         x="10"
+         y="9.6816406"
+         rx="2.8000002"
+         ry="2" />
+      <text
+         sodipodi:linespacing="125%"
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+         x="16.295898"
+         y="23.900879"
+         id="text3455"><tspan
+           sodipodi:role="line"
+           id="tspan3457"
+           x="16.295898"
+           y="23.900879"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold">ratelab</tspan></text>
+      <g
+         id="g3459"
+         transform="translate(-780,0)">
+        <path
+           id="path3461"
+           d="M 870,10 L 870,30"
+           style="fill:none;fill-rule:evenodd;stroke:#232323;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#404040;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 871.02772,10 L 871.02772,30"
+           id="path3463" />
+      </g>
+      <rect
+         ry="2"
+         rx="1.9999999"
+         y="10"
+         x="100"
+         height="20"
+         width="50"
+         id="rect3465"
+         style="opacity:1;fill:#222222;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text3467"
+         y="22.436279"
+         x="111.12378"
+         style="font-size:11px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           style="font-size:11px;fill:#ffffff"
+           y="22.436279"
+           x="111.12378"
+           id="tspan3469"
+           sodipodi:role="line">вход</tspan></text>
+      <rect
+         style="opacity:1;fill:#222222;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect3471"
+         width="90"
+         height="20"
+         x="162"
+         y="10"
+         rx="3.5999999"
+         ry="2" />
+      <text
+         xml:space="preserve"
+         style="font-size:11px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         x="169.89648"
+         y="22.436279"
+         id="text3473"><tspan
+           sodipodi:role="line"
+           id="tspan3475"
+           x="169.89648"
+           y="22.436279"
+           style="font-size:11px;fill:#ffffff">регистрация</tspan></text>
+    </g>
+    <rect
+       y="640.31836"
+       x="1.7053026e-13"
+       height="149.68164"
+       width="1150"
+       id="rect3477"
+       style="opacity:1;fill:#2e2e2e;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="97"
+       y="550"
+       id="text3485"><tspan
+         sodipodi:role="line"
+         id="tspan3487"
+         x="97"
+         y="550" /></text>
+    <g
+       id="g3549"
+       transform="translate(-298,110)">
+      <rect
+         ry="2"
+         rx="2.8000002"
+         y="540"
+         x="310"
+         height="20"
+         width="70"
+         id="rect3479"
+         style="fill:#5c5c5c;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text3481"
+         y="554.21924"
+         x="316.2959"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#292929;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+         xml:space="preserve"
+         sodipodi:linespacing="125%"><tspan
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#292929;fill-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+           y="554.21924"
+           x="316.2959"
+           id="tspan3483"
+           sodipodi:role="line">ratelab</tspan></text>
+      <text
+         id="text3489"
+         y="553"
+         x="391.5"
+         style="font-size:10px;font-style:normal;font-weight:normal;fill:#5c5c5c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="553"
+           x="391.5"
+           id="tspan3491"
+           sodipodi:role="line">© 2009 Все права защищены. <tspan
+   id="tspan3493"
+   style="fill:#797979;fill-opacity:1">о прокте | справка</tspan></tspan></text>
+    </g>
+    <rect
+       style="opacity:1;fill:url(#linearGradient3527);fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3503"
+       width="1150"
+       height="600"
+       x="1.1368684e-13"
+       y="40" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:url(#linearGradient3586);stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3563"
+       width="979.91656"
+       height="519.92682"
+       x="85.04171"
+       y="70.123352"
+       rx="4"
+       ry="4" />
+  </g>
+</svg>
