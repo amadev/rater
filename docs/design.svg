@@ -20,6 +20,54 @@
   <defs
      id="defs4">
     <linearGradient
+       id="linearGradient3469">
+      <stop
+         id="stop3471"
+         offset="0"
+         style="stop-color:#006ead;stop-opacity:1;" />
+      <stop
+         style="stop-color:#1581bd;stop-opacity:0.13333334;"
+         offset="0.39655173"
+         id="stop3479" />
+      <stop
+         id="stop3475"
+         offset="1"
+         style="stop-color:#2a94ce;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3429">
+      <stop
+         style="stop-color:#006ead;stop-opacity:1;"
+         offset="0"
+         id="stop3431" />
+      <stop
+         style="stop-color:#2a94ce;stop-opacity:1;"
+         offset="1"
+         id="stop3433" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3381">
+      <stop
+         style="stop-color:#c6c6c6;stop-opacity:1;"
+         offset="0"
+         id="stop3383" />
+      <stop
+         style="stop-color:#e9e9e9;stop-opacity:1;"
+         offset="1"
+         id="stop3385" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2539">
+      <stop
+         style="stop-color:#eaf4fa;stop-opacity:1;"
+         offset="0"
+         id="stop2541" />
+      <stop
+         style="stop-color:#bfd8e7;stop-opacity:0;"
+         offset="1"
+         id="stop2543" />
+    </linearGradient>
+    <linearGradient
        inkscape:collect="always"
        id="linearGradient3580">
       <stop
@@ -69,7 +117,125 @@
        x2="575"
        y2="69.56031"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.9998713,0,0,1.2682348,7.3976315e-2,-18.729569)" />
+       gradientTransform="matrix(0.9998577,0,0,1.3023518,-4.8764406,-35.163312)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2539"
+       id="linearGradient2545"
+       x1="570"
+       y1="110"
+       x2="570"
+       y2="220"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.7526881,0,0,0.8181818,17.204302,20)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3381"
+       id="linearGradient3387"
+       x1="940"
+       y1="110"
+       x2="940"
+       y2="310"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3429"
+       id="linearGradient3435"
+       x1="450"
+       y1="156.30611"
+       x2="450"
+       y2="122.29198"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.9855617,0,0,0.9855617,11.161847,1.76569)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3429"
+       id="linearGradient3449"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.9855617,0,0,0.9855617,3.1381869,-310.34128)"
+       x1="450"
+       y1="156.30611"
+       x2="449.99997"
+       y2="122.29196" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3429"
+       id="linearGradient3457"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.9855617,0,0,0.9855617,3.49726,-310.28778)"
+       x1="450"
+       y1="156.30611"
+       x2="450"
+       y2="122.29198" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3469"
+       id="linearGradient3465"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.9855617,0,0,0.9855617,3.497261,-312.2878)"
+       x1="450"
+       y1="156.30611"
+       x2="450"
+       y2="122.29198" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3469"
+       id="linearGradient3486"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.9855617,0,0,0.9855617,11.161847,-301.0821)"
+       x1="450"
+       y1="156.30611"
+       x2="450"
+       y2="122.29198" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2539"
+       id="linearGradient3514"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.7526881,0,0,0.8181818,17.204302,20)"
+       x1="570"
+       y1="110"
+       x2="570"
+       y2="220" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3429"
+       id="linearGradient3516"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.9855617,0,0,0.9855617,11.161847,1.76569)"
+       x1="450"
+       y1="156.30611"
+       x2="450"
+       y2="122.29198" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3469"
+       id="linearGradient3518"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.9855617,0,0,0.9855617,11.161847,-301.0821)"
+       x1="450"
+       y1="156.30611"
+       x2="450"
+       y2="122.29198" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3381"
+       id="linearGradient3520"
+       gradientUnits="userSpaceOnUse"
+       x1="940"
+       y1="110"
+       x2="940"
+       y2="310" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3381"
+       id="linearGradient3535"
+       gradientUnits="userSpaceOnUse"
+       x1="940"
+       y1="110"
+       x2="940"
+       y2="310"
+       gradientTransform="translate(0,-18)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -81,12 +247,12 @@
      objecttolerance="10"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="580.16066"
-     inkscape:cy="676.06267"
+     inkscape:zoom="4"
+     inkscape:cx="379.89608"
+     inkscape:cy="788.1701"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="true"
+     showgrid="false"
      inkscape:window-width="1279"
      inkscape:window-height="945"
      inkscape:window-x="0"
@@ -346,12 +512,153 @@
        x="1.1368684e-13"
        y="40" />
     <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:url(#linearGradient3586);stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:url(#linearGradient3586);stroke-width:1.01335442;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect3563"
-       width="979.91656"
-       height="519.92682"
-       x="85.04171"
-       y="70.123352"
+       width="979.9032"
+       height="533.91345"
+       x="80.090134"
+       y="56.079857"
+       rx="3.9999454"
+       ry="4.1076045" />
+    <g
+       id="g3537">
+      <rect
+         ry="8"
+         rx="8"
+         y="92"
+         x="820"
+         height="200"
+         width="220"
+         id="rect3321"
+         style="fill:url(#linearGradient3535);fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.87113953" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3389"
+         y="142"
+         x="877.16406"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#5c5c5c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+         xml:space="preserve"><tspan
+           y="142"
+           x="877.16406"
+           id="tspan3391"
+           sodipodi:role="line">оценка дня</tspan></text>
+      <g
+         transform="translate(0,-18)"
+         id="g3495">
+        <text
+           sodipodi:linespacing="125%"
+           id="text3397"
+           y="237.82732"
+           x="869.40967"
+           style="font-size:72.59364319px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+           xml:space="preserve"><tspan
+             y="237.82732"
+             x="869.40967"
+             id="tspan3399"
+             sodipodi:role="line">3.2</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:68.88573456px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+           x="869.65771"
+           y="235.07535"
+           id="text3393"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3395"
+             x="869.65771"
+             y="235.07535">3.2</tspan></text>
+      </g>
+      <text
+         id="text3401"
+         y="252"
+         x="934"
+         style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan3409"
+           style="font-size:10px;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle"
+           y="252"
+           x="935.5918"
+           sodipodi:role="line">настроение пользователей </tspan><tspan
+           id="tspan3417"
+           style="font-size:10px;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle"
+           y="264.5"
+           x="934"
+           sodipodi:role="line">за текущий день</tspan></text>
+    </g>
+    <g
+       id="g3488"
+       transform="translate(0,-18)">
+      <rect
+         ry="8"
+         rx="8"
+         y="110"
+         x="100"
+         height="90"
+         width="700"
+         id="rect2537"
+         style="opacity:1;fill:url(#linearGradient3514);fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3317"
+         y="150.27956"
+         x="223.25404"
+         style="font-size:35.31642914px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient3516);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+         xml:space="preserve"><tspan
+           style="fill:url(#linearGradient3516);fill-opacity:1"
+           y="150.27956"
+           x="223.25404"
+           id="tspan3319"
+           sodipodi:role="line">Оставить свое мнение </tspan></text>
+      <text
+         transform="scale(1,-1)"
+         xml:space="preserve"
+         style="font-size:35.31642914px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;opacity:0.30855019;fill:url(#linearGradient3518);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+         x="223.25404"
+         y="-152.56824"
+         id="text3482"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3484"
+           x="223.25404"
+           y="-152.56824"
+           style="fill:url(#linearGradient3518);fill-opacity:1">Оставить свое мнение </tspan></text>
+    </g>
+    <rect
+       style="opacity:1;fill:#e2f0f9;fill-opacity:1;stroke:none;stroke-width:0.99147165;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.87113953"
+       id="rect3522"
+       width="699.98724"
+       height="332.00851"
+       x="100.01276"
+       y="217.99147"
+       rx="8.0691156"
+       ry="8.000205" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;fill:#5c5c5c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="120"
+       y="270"
+       id="text3550"><tspan
+         sodipodi:role="line"
+         id="tspan3552"
+         x="120"
+         y="270">я ставлю </tspan></text>
+    <rect
+       ry="4"
+       rx="4"
+       y="240.07143"
+       x="214.07143"
+       height="44.959194"
+       width="233.42859"
+       id="rect3558"
+       style="fill:#d0e5f2;fill-opacity:1;stroke:none;stroke-width:1.14285719;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.87113953" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.99999994;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.87113953"
+       id="rect3556"
+       width="227.87558"
+       height="40.097511"
+       x="216.59793"
+       y="242.50227"
        rx="4"
        ry="4" />
   </g>
