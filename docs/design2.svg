@@ -106,8 +106,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="460.81845"
-     inkscape:cy="287.30828"
+     inkscape:cx="581.96026"
+     inkscape:cy="295.71849"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -217,29 +217,40 @@
      inkscape:label="Low panes"
      style="display:inline">
     <rect
-       style="fill:#f8f5f0;fill-opacity:1;stroke:#9fb6cf;stroke-width:2;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none"
+       style="fill:#ffffff;fill-opacity:1;stroke:#999999;stroke-width:2;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none"
        id="rect3630"
        width="958"
-       height="599"
+       height="598"
        x="1"
        y="41"
        rx="10"
        ry="10" />
     <path
-       style="fill:none;stroke:#c8c8c8;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 720.5,120.04069 0,517.1347"
+       style="fill:none;stroke:#e6e6e6;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 720.5,179.98472 0,459.24664"
        id="path3676" />
     <text
        xml:space="preserve"
        style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#565248;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Andale Mono Bold"
-       x="28"
-       y="92"
+       x="18"
+       y="82"
        id="text3721"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3723"
-         x="28"
-         y="92">Где Мое!</tspan></text>
+         x="18"
+         y="82">Где</tspan><tspan
+         sodipodi:role="line"
+         x="18"
+         y="122"
+         id="tspan2847">Мое</tspan></text>
+    <rect
+       style="fill:#aa4400;fill-opacity:1;stroke:none"
+       id="rect2845"
+       width="956"
+       height="10"
+       x="2"
+       y="136.00005" />
   </g>
   <g
      inkscape:groupmode="layer"
