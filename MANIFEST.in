@@ -1,0 +1,2 @@
+recursive-include rater/templates *.*
+recursive-include rater/static *.*
