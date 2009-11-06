@@ -15,9 +15,48 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.47pre4 r22446"
-   sodipodi:docname="design2.svg">
+   sodipodi:docname="design2.svg"
+   sodipodi:version="0.32"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <defs
      id="defs4">
+    <linearGradient
+       id="linearGradient3640">
+      <stop
+         style="stop-color:#a05a2c;stop-opacity:1;"
+         offset="0"
+         id="stop3642" />
+      <stop
+         style="stop-color:#d38e60;stop-opacity:1;"
+         offset="1"
+         id="stop3644" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3628">
+      <stop
+         style="stop-color:#a05a2c;stop-opacity:0.22413793;"
+         offset="0"
+         id="stop3630" />
+      <stop
+         style="stop-color:#a05a2c;stop-opacity:0;"
+         offset="1"
+         id="stop3632" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3556">
+      <stop
+         id="stop3558"
+         offset="0"
+         style="stop-color:#efefef;stop-opacity:1;" />
+      <stop
+         style="stop-color:#f7f7f7;stop-opacity:1;"
+         offset="0.66666669"
+         id="stop3562" />
+      <stop
+         id="stop3560"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+    </linearGradient>
     <linearGradient
        id="linearGradient3662">
       <stop
@@ -74,15 +113,6 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 0.5 : 1"
        sodipodi:type="inkscape:persp3d" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3604"
-       id="linearGradient3610"
-       x1="880"
-       y1="4"
-       x2="880"
-       y2="36"
-       gradientUnits="userSpaceOnUse" />
     <inkscape:perspective
        id="perspective3688"
        inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
@@ -97,6 +127,73 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 0.5 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3662"
+       id="linearGradient3590"
+       x1="498"
+       y1="58"
+       x2="498"
+       y2="129"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0061897,0,0,1,-2.9059485,0)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3628"
+       id="linearGradient3634"
+       x1="836.5"
+       y1="317"
+       x2="836.5"
+       y2="171"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3640"
+       id="linearGradient3646"
+       x1="922.42645"
+       y1="36"
+       x2="922.42645"
+       y2="4"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.75,0,5)" />
+    <inkscape:perspective
+       id="perspective3656"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3662-8"
+       id="linearGradient3590-9"
+       x1="498"
+       y1="58"
+       x2="498"
+       y2="129"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0061897,0,0,1,-2.9059485,0)" />
+    <linearGradient
+       id="linearGradient3662-8">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="0"
+         id="stop3664-1" />
+      <stop
+         style="stop-color:#d4c4af;stop-opacity:0.37931034;"
+         offset="1"
+         id="stop3666-6" />
+    </linearGradient>
+    <linearGradient
+       y2="57.998684"
+       x2="571.08673"
+       y1="129.08421"
+       x1="571.08673"
+       gradientTransform="matrix(1.0061897,0,0,3.2707091,-2.971042,-29.201128)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3665"
+       xlink:href="#linearGradient3662-8"
+       inkscape:collect="always" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -106,8 +203,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="581.96026"
-     inkscape:cy="295.71849"
+     inkscape:cx="456.90745"
+     inkscape:cy="255.28445"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -217,40 +314,79 @@
      inkscape:label="Low panes"
      style="display:inline">
     <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#999999;stroke-width:2;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none"
+       style="fill:#ffffff;fill-opacity:1;stroke:#502d16;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect3630"
        width="958"
        height="598"
        x="1"
        y="41"
        rx="10"
-       ry="10" />
-    <path
-       style="fill:none;stroke:#e6e6e6;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 720.5,179.98472 0,459.24664"
-       id="path3676" />
-    <text
-       xml:space="preserve"
-       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#565248;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Andale Mono Bold"
-       x="18"
-       y="82"
-       id="text3721"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3723"
-         x="18"
-         y="82">Где</tspan><tspan
-         sodipodi:role="line"
-         x="18"
-         y="122"
-         id="tspan2847">Мое</tspan></text>
+       ry="10"
+       inkscape:transform-center-y="127" />
     <rect
-       style="fill:#aa4400;fill-opacity:1;stroke:none"
+       style="fill:url(#linearGradient3665);fill-opacity:1;stroke:none;display:inline"
+       id="rect3582-4"
+       width="955.88019"
+       height="232.22035"
+       x="2.059906"
+       y="160.5" />
+    <rect
+       style="fill:url(#linearGradient3590);fill-opacity:1;stroke:none;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect3582"
+       width="955.88019"
+       height="71"
+       x="2.125"
+       y="58" />
+    <rect
+       style="fill:#a05a2c;fill-opacity:1;stroke:#2b1100;stroke-opacity:1"
        id="rect2845"
        width="956"
-       height="10"
+       height="32"
        x="2"
-       y="136.00005" />
+       y="129.00009" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 160,122.5 L 159.5,162"
+       id="path3528" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="M 320,124.25 L 319.5,163.75"
+       id="path3530" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="M 480,122.75 L 479.5,162.25"
+       id="path3532" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#cc0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="27"
+       y="98"
+       id="text3534"><tspan
+         sodipodi:role="line"
+         id="tspan3536"
+         x="27"
+         y="98">Specio</tspan></text>
+    <rect
+       style="fill:url(#linearGradient3634);fill-opacity:1.0;stroke:none;stroke-width:1;stroke-linejoin:miter;stroke-opacity:1;opacity:1"
+       id="rect3564"
+       width="225"
+       height="146"
+       x="724"
+       y="171" />
+    <rect
+       y="317"
+       x="724"
+       height="146"
+       width="225"
+       id="rect3570"
+       style="fill:#f4f4f3;fill-opacity:1;stroke:none" />
+    <rect
+       style="fill:#eeeeec;fill-opacity:1;stroke:none;display:inline"
+       id="rect3580"
+       width="225"
+       height="146"
+       x="723.5"
+       y="463" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -263,19 +399,19 @@
       <g
          id="g3619">
         <rect
-           style="fill:url(#linearGradient3610);fill-opacity:1;stroke:none"
+           style="fill:url(#linearGradient3646);fill-opacity:1;stroke:none"
            id="rect3660"
-           width="150"
-           height="32"
-           x="805"
-           y="4"
+           width="65.147186"
+           height="24"
+           x="889.85284"
+           y="8"
            rx="5"
            ry="5" />
         <flowRoot
            xml:space="preserve"
            id="flowRoot3692"
            style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
-           transform="translate(0,2)"><flowRegion
+           transform="translate(41,2)"><flowRegion
              id="flowRegion3694"><rect
                id="rect3696"
                width="139.86238"
