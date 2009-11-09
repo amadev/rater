@@ -18,9 +18,34 @@
    sodipodi:docname="design2.svg"
    sodipodi:version="0.32"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   enable-background="new">
+   enable-background="new"
+   inkscape:export-filename="/home/radev/Desktop/projects/rater/docs/design2.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4">
+    <linearGradient
+       id="linearGradient3750">
+      <stop
+         id="stop3752"
+         offset="0"
+         style="stop-color:#e3ebf8;stop-opacity:1;" />
+      <stop
+         id="stop3754"
+         offset="1"
+         style="stop-color:#f3f6fc;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3742">
+      <stop
+         style="stop-color:#f3f6fc;stop-opacity:1;"
+         offset="0"
+         id="stop3744" />
+      <stop
+         style="stop-color:#f3f6fc;stop-opacity:0;"
+         offset="1"
+         id="stop3746" />
+    </linearGradient>
     <linearGradient
        id="linearGradient3645">
       <stop
@@ -187,6 +212,23 @@
        y1="36"
        x2="922.42645"
        y2="4" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3750"
+       id="linearGradient3748"
+       x1="843.5"
+       y1="341"
+       x2="843.5"
+       y2="187.9183"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.99090909,0,0,1,8.6227273,0)" />
+    <inkscape:perspective
+       id="perspective3776"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -196,10 +238,10 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="486.36314"
-     inkscape:cy="258.1575"
+     inkscape:cx="480.69537"
+     inkscape:cy="258.24267"
      inkscape:document-units="px"
-     inkscape:current-layer="svg2"
+     inkscape:current-layer="layer5"
      showgrid="false"
      inkscape:window-width="1680"
      inkscape:window-height="976"
@@ -209,7 +251,16 @@
      inkscape:showpageshadow="false"
      borderlayer="true"
      showborder="false"
-     inkscape:snap-grids="true">
+     inkscape:snap-grids="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="false"
+     inkscape:bbox-nodes="false"
+     inkscape:snap-bbox-edge-midpoints="false"
+     inkscape:snap-bbox-midpoints="false"
+     inkscape:object-nodes="false"
+     inkscape:object-paths="false"
+     inkscape:snap-intersection-paths="false"
+     inkscape:snap-page="true">
     <inkscape:grid
        type="xygrid"
        id="main_grid"
@@ -330,9 +381,9 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Main menu"
-     style="display:inline;">
+     style="display:inline">
     <rect
-       style="fill:#f2f2f2;fill-opacity:1;stroke:none;display:inline"
+       style="fill:#eee8de;fill-opacity:1;stroke:none;display:inline"
        id="rect3661"
        width="940"
        height="40"
@@ -380,30 +431,107 @@
          x="240"
          id="tspan3693"
          sodipodi:role="line">Справка</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 10,180 940,0"
+       id="path3720"
+       sodipodi:nodetypes="cc" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="Right sidebar"
      style="display:inline">
-    <rect
-       style="fill:#f8f8fa;fill-opacity:1;stroke:none;display:inline"
-       id="rect3695"
-       width="220"
-       height="220"
-       x="730"
-       y="180" />
+    <g
+       id="g3710"
+       transform="translate(0,1)">
+      <rect
+         style="fill:#f3f6fc;fill-opacity:1;stroke:#d5e5ff;stroke-width:3.00000024;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="rect3705"
+         width="217"
+         height="151"
+         x="731.5"
+         y="189.49998"
+         rx="5"
+         ry="5" />
+      <rect
+         ry="5"
+         rx="5"
+         y="188.49998"
+         x="730.5"
+         height="152"
+         width="218"
+         id="rect3695"
+         style="fill:url(#linearGradient3748);fill-opacity:1;stroke:#e3ebf8;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    </g>
     <text
        xml:space="preserve"
-       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#536c67;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="840.03711"
-       y="212"
+       y="224"
        id="text3697"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3699"
          x="840.03711"
-         y="212">Настроение дня</tspan></text>
+         y="224">Настроение дня</tspan></text>
+    <g
+       id="g3714"
+       transform="matrix(0.99099099,0,0,1.6749656,8.5585593,36.106485)">
+      <rect
+         ry="2.985136"
+         rx="5.0454545"
+         y="189.49998"
+         x="729.5"
+         height="151"
+         width="219"
+         id="rect3716"
+         style="fill:#f3f6fc;fill-opacity:1;stroke:#d5e5ff;stroke-width:2.32853889;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+      <rect
+         style="fill:#f3f6fc;fill-opacity:1;stroke:#e3ebf8;stroke-width:0.77617955;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="rect3718"
+         width="220"
+         height="152"
+         x="728.5"
+         y="188.49998"
+         rx="5.0454545"
+         ry="2.985136" />
+    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3760"
+       y="296"
+       x="841"
+       style="display:inline;font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffccaa;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       xml:space="preserve"><tspan
+         style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffccaa;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         y="296"
+         x="841"
+         id="tspan3762"
+         sodipodi:role="line">3.2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="display:inline;font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ff7f2a;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       x="838"
+       y="294"
+       id="text3756"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3758"
+         x="838"
+         y="294"
+         style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ff7f2a;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">3.2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:22;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#536c67;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       x="19.876953"
+       y="235.67578"
+       id="text3697-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3699-6"
+         x="19.876953"
+         y="235.67578">Добавить оценку</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -413,14 +541,34 @@
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ff6600;fill-opacity:1;stroke:none;display:inline;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
-       x="40"
+       x="83"
        y="107"
        id="text3534"><tspan
          sodipodi:role="line"
          id="tspan3536"
-         x="40"
+         x="83"
          y="107"
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ff6600;fill-opacity:1;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS">SPECIO</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#ff6600;stroke-width:6.92307663;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3722"
+       sodipodi:cx="51"
+       sodipodi:cy="91"
+       sodipodi:rx="18"
+       sodipodi:ry="18"
+       d="m 69,91 a 18,18 0 1 1 -36,0 18,18 0 1 1 36,0 z"
+       transform="matrix(0.72222222,0,0,0.72222222,24.916667,27.527778)" />
+    <path
+       transform="matrix(0.34027778,0,0,0.34027778,44.470833,62.159722)"
+       d="m 69,91 a 18,18 0 1 1 -36,0 18,18 0 1 1 36,0 z"
+       sodipodi:ry="18"
+       sodipodi:rx="18"
+       sodipodi:cy="91"
+       sodipodi:cx="51"
+       id="path3724"
+       style="fill:none;stroke:#ff6600;stroke-width:14.69387722;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:type="arc" />
   </g>
   <g
      inkscape:groupmode="layer"
