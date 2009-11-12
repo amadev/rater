@@ -132,7 +132,7 @@
     <linearGradient
        id="linearGradient3333">
       <stop
-         style="stop-color:#bdcee9;stop-opacity:1;"
+         style="stop-color:#b2cbf4;stop-opacity:1;"
          offset="0"
          id="stop3335" />
       <stop
@@ -242,6 +242,13 @@
        y1="341"
        x2="843.5"
        y2="187.9183" />
+    <inkscape:perspective
+       id="perspective3675"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -251,8 +258,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="525.07512"
-     inkscape:cy="303.80301"
+     inkscape:cx="586.8275"
+     inkscape:cy="258.69813"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -385,7 +392,7 @@
      inkscape:label="Low panes"
      style="display:inline">
     <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#bdcee9;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:#ffffff;fill-opacity:1;stroke:#a9c5f5;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect3630"
        width="958"
        height="598"
@@ -401,6 +408,36 @@
        height="62"
        x="2"
        y="167" />
+    <rect
+       style="fill:#214478;fill-opacity:1;stroke:none;display:inline"
+       id="rect3660-9"
+       width="220"
+       height="24"
+       x="730"
+       y="80"
+       rx="5"
+       ry="5" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3692-2"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#eeeeec;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       transform="translate(35.28125,76)"><flowRegion
+         id="flowRegion3694-6"><rect
+           id="rect3696-8"
+           width="139.86238"
+           height="24.349714"
+           x="810.07343"
+           y="7.7982831"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#eeeeec;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" /></flowRegion><flowPara
+         id="flowPara3698-5">Найти</flowPara></flowRoot>    <rect
+       ry="4"
+       rx="4"
+       y="80.999969"
+       x="731"
+       height="22"
+       width="149"
+       id="rect3706"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
   </g>
   <g
      inkscape:groupmode="layer"
