@@ -22,8 +22,21 @@
    inkscape:export-filename="/home/radev/Desktop/projects/rater/docs/design2.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
+  <title
+     id="title3683">Rater second design variant</title>
   <defs
      id="defs4">
+    <linearGradient
+       id="linearGradient3691">
+      <stop
+         style="stop-color:#214478;stop-opacity:1;"
+         offset="0"
+         id="stop3693" />
+      <stop
+         style="stop-color:#214478;stop-opacity:0;"
+         offset="1"
+         id="stop3695" />
+    </linearGradient>
     <linearGradient
        id="linearGradient3750">
       <stop
@@ -38,7 +51,7 @@
     <linearGradient
        id="linearGradient3742">
       <stop
-         style="stop-color:#f3f6fc;stop-opacity:1;"
+         style="stop-color:#dfe7f7;stop-opacity:1;"
          offset="0"
          id="stop3744" />
       <stop
@@ -71,11 +84,11 @@
     <linearGradient
        id="linearGradient3628">
       <stop
-         style="stop-color:#a05a2c;stop-opacity:0.22413793;"
+         style="stop-color:#ff6600;stop-opacity:0.15686275;"
          offset="0"
          id="stop3630" />
       <stop
-         style="stop-color:#a05a2c;stop-opacity:0;"
+         style="stop-color:#ff6600;stop-opacity:0;"
          offset="1"
          id="stop3632" />
     </linearGradient>
@@ -202,26 +215,6 @@
        y2="615.75"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.6288745,0,0,1.1605839,-305.71044,-91.919708)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3604"
-       id="linearGradient3654"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.92325025,0,0,0.75,68.295987,5)"
-       x1="922.42645"
-       y1="36"
-       x2="922.42645"
-       y2="4" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3750"
-       id="linearGradient3748"
-       x1="843.5"
-       y1="341"
-       x2="843.5"
-       y2="187.9183"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.99090909,0,0,1,8.6227273,0)" />
     <inkscape:perspective
        id="perspective3776"
        inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
@@ -229,6 +222,26 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 0.5 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3742"
+       id="linearGradient3697"
+       x1="290.5"
+       y1="166"
+       x2="290.5"
+       y2="228"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.6568457,0,0,1,-1.3136915,1)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3750"
+       id="linearGradient2895"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.99090909,0,0,1,8.6227273,1)"
+       x1="843.5"
+       y1="341"
+       x2="843.5"
+       y2="187.9183" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -238,10 +251,10 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="480.69537"
-     inkscape:cy="258.24267"
+     inkscape:cx="525.07512"
+     inkscape:cy="303.80301"
      inkscape:document-units="px"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1680"
      inkscape:window-height="976"
@@ -333,7 +346,13 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title>Rater second design variant</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Igor Ivanov</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:language>ru</dc:language>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -364,8 +383,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Low panes"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#bdcee9;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect3630"
@@ -376,97 +394,58 @@
        rx="10"
        ry="10"
        inkscape:transform-center-y="127" />
+    <rect
+       style="fill:url(#linearGradient3697);fill-opacity:1;stroke:none;display:inline"
+       id="rect3689"
+       width="956"
+       height="62"
+       x="2"
+       y="167" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Main menu"
      style="display:inline">
-    <rect
-       style="fill:#eee8de;fill-opacity:1;stroke:none;display:inline"
-       id="rect3661"
-       width="940"
-       height="40"
-       x="10"
-       y="140" />
-    <g
-       id="g3681"
-       transform="translate(-80,0)">
-      <path
-         id="path3665"
-         d="m 239.5,148 0,24"
-         style="fill:none;stroke:#cccccc;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 240.5,148 0,24"
-         id="path3679" />
-    </g>
-    <use
-       x="0"
-       y="0"
-       xlink:href="#g3681"
-       id="use3685"
-       transform="translate(160,0)"
-       width="960"
-       height="640" />
-    <text
-       xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2b1100;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
-       x="80"
-       y="163.5"
-       id="text3687"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3689"
-         x="80"
-         y="163.5">О проекте</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text3691"
-       y="163.5"
-       x="240"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2b1100;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
-       xml:space="preserve"><tspan
-         y="163.5"
-         x="240"
-         id="tspan3693"
-         sodipodi:role="line">Справка</tspan></text>
     <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 10,180 940,0"
+       style="fill:none;stroke:#ff7f2a;stroke-width:3;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 3.5,140.5 953.00031,0"
        id="path3720"
        sodipodi:nodetypes="cc" />
+    <rect
+       style="fill:#214478;fill-opacity:1;stroke:none"
+       id="rect3687"
+       width="956"
+       height="24"
+       x="2"
+       y="142" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="Right sidebar"
      style="display:inline">
-    <g
-       id="g3710"
-       transform="translate(0,1)">
-      <rect
-         style="fill:#f3f6fc;fill-opacity:1;stroke:#d5e5ff;stroke-width:3.00000024;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-         id="rect3705"
-         width="217"
-         height="151"
-         x="731.5"
-         y="189.49998"
-         rx="5"
-         ry="5" />
-      <rect
-         ry="5"
-         rx="5"
-         y="188.49998"
-         x="730.5"
-         height="152"
-         width="218"
-         id="rect3695"
-         style="fill:url(#linearGradient3748);fill-opacity:1;stroke:#e3ebf8;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
-    </g>
+    <rect
+       ry="5"
+       rx="5"
+       y="190.49998"
+       x="731.5"
+       height="151"
+       width="217"
+       id="rect3705"
+       style="fill:#f3f6fc;fill-opacity:1;stroke:#87aade;stroke-width:3.00000024;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <rect
+       style="fill:url(#linearGradient2895);fill-opacity:1;stroke:#afc6e9;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="rect3695"
+       width="218"
+       height="152"
+       x="730.5"
+       y="189.49998"
+       rx="5"
+       ry="5" />
     <text
        xml:space="preserve"
-       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#536c67;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#214478;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="840.03711"
        y="224"
        id="text3697"
@@ -502,7 +481,7 @@
        id="text3760"
        y="296"
        x="841"
-       style="display:inline;font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffccaa;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffccaa;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        xml:space="preserve"><tspan
          style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffccaa;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
          y="296"
@@ -511,7 +490,7 @@
          sodipodi:role="line">3.2</tspan></text>
     <text
        xml:space="preserve"
-       style="display:inline;font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ff7f2a;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ff7f2a;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="838"
        y="294"
        id="text3756"
@@ -523,7 +502,7 @@
          style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ff7f2a;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">3.2</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:22;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#536c67;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#214478;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="19.876953"
        y="235.67578"
        id="text3697-9"
@@ -540,35 +519,16 @@
      style="display:inline">
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ff6600;fill-opacity:1;stroke:none;display:inline;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
-       x="83"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ff6600;fill-opacity:1;stroke:none;display:inline;font-family:Droid Serif;-inkscape-font-specification:Droid Serif;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"
+       x="37"
        y="107"
-       id="text3534"><tspan
+       id="text3534"
+       sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3536"
-         x="83"
+         x="37"
          y="107"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ff6600;fill-opacity:1;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS">SPECIO</tspan></text>
-    <path
-       sodipodi:type="arc"
-       style="fill:none;stroke:#ff6600;stroke-width:6.92307663;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="path3722"
-       sodipodi:cx="51"
-       sodipodi:cy="91"
-       sodipodi:rx="18"
-       sodipodi:ry="18"
-       d="m 69,91 a 18,18 0 1 1 -36,0 18,18 0 1 1 36,0 z"
-       transform="matrix(0.72222222,0,0,0.72222222,24.916667,27.527778)" />
-    <path
-       transform="matrix(0.34027778,0,0,0.34027778,44.470833,62.159722)"
-       d="m 69,91 a 18,18 0 1 1 -36,0 18,18 0 1 1 36,0 z"
-       sodipodi:ry="18"
-       sodipodi:rx="18"
-       sodipodi:cy="91"
-       sodipodi:cx="51"
-       id="path3724"
-       style="fill:none;stroke:#ff6600;stroke-width:14.69387722;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       sodipodi:type="arc" />
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr;text-anchor:start;fill:#ff6600;fill-opacity:1;font-family:Droid Serif;-inkscape-font-specification:Droid Serif">SPECIO</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -576,25 +536,25 @@
      inkscape:label="Login"
      style="display:inline">
     <rect
-       style="fill:url(#linearGradient3654);fill-opacity:1;stroke:none"
+       style="fill:#214478;fill-opacity:1;stroke:none"
        id="rect3660"
-       width="60.147156"
+       width="80"
        height="24"
-       x="889.85284"
+       x="870"
        y="8"
-       rx="2"
-       ry="2" />
+       rx="5"
+       ry="5" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot3692"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
-       transform="translate(40,3)"><flowRegion
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       transform="translate(29.28125,3)"><flowRegion
          id="flowRegion3694"><rect
            id="rect3696"
            width="139.86238"
            height="24.349714"
            x="810.07343"
            y="7.7982831"
-           style="font-size:12px;text-align:center;text-anchor:middle;fill:#eeeeec" /></flowRegion><flowPara
+           style="font-size:12px;text-align:center;text-anchor:middle;fill:#eeeeec;-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal" /></flowRegion><flowPara
          id="flowPara3698">Вход</flowPara></flowRoot>  </g>
 </svg>
