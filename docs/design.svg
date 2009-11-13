@@ -15,10 +15,30 @@
    sodipodi:version="0.32"
    inkscape:version="0.46"
    version="1.0"
-   sodipodi:docname="design.svg"
+   sodipodi:docname="design_new.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <defs
      id="defs4">
+    <linearGradient
+       id="linearGradient3394">
+      <stop
+         id="stop3396"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop3398"
+         offset="1"
+         style="stop-color:#cfcfcf;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3394"
+       id="linearGradient3416"
+       gradientUnits="userSpaceOnUse"
+       x1="300"
+       y1="374"
+       x2="300"
+       y2="400" />
     <linearGradient
        id="linearGradient3469">
       <stop
@@ -107,7 +127,7 @@
        x2="470"
        y2="40"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.1734695,0,0,1.2244898,0,-8.9795918)" />
+       gradientTransform="matrix(1.1734695,0,0,1.5510204,0,-22.040817)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3580"
@@ -117,7 +137,7 @@
        x2="575"
        y2="69.56031"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.9998577,0,0,1.3023518,-4.8764406,-35.163312)" />
+       gradientTransform="matrix(0.9998242,0,0,1.692606,-9.963734,-62.523712)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient2539"
@@ -236,6 +256,77 @@
        x2="940"
        y2="310"
        gradientTransform="translate(0,-18)" />
+    <filter
+       inkscape:collect="always"
+       id="filter3293"
+       x="-0.060298507"
+       width="1.120597"
+       y="-12.12"
+       height="25.24">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="5.05"
+         id="feGaussianBlur3295" />
+    </filter>
+    <inkscape:perspective
+       id="perspective3583"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3633"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3683"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3733"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3276"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3601"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3668"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3381"
+       id="linearGradient3829"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,-18)"
+       x1="940"
+       y1="110"
+       x2="940"
+       y2="310" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -247,14 +338,14 @@
      objecttolerance="10"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="379.89608"
-     inkscape:cy="788.1701"
+     inkscape:zoom="2"
+     inkscape:cx="223.33021"
+     inkscape:cy="273.32887"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1279"
-     inkscape:window-height="945"
+     inkscape:window-width="1679"
+     inkscape:window-height="971"
      inkscape:window-x="0"
      inkscape:window-y="26"
      showborder="true">
@@ -263,8 +354,8 @@
        id="grid2383"
        visible="true"
        enabled="true"
-       spacingx="10px"
-       spacingy="10px"
+       spacingx="5px"
+       spacingy="5px"
        dotted="true" />
   </sodipodi:namedview>
   <metadata
@@ -282,6 +373,13 @@
      inkscape:label="background"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect
+       style="opacity:1;fill:url(#linearGradient3527);fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3503"
+       width="1150"
+       height="760"
+       x="1.1368684e-13"
+       y="40" />
     <rect
        style="opacity:1;fill:#2e2e2e;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect2409"
@@ -374,89 +472,79 @@
            id="tspan3451"
            sodipodi:role="line">справка</tspan></text>
     </g>
-    <g
-       id="g3535">
-      <rect
-         style="opacity:1;fill:#222222;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect3453"
-         width="70"
-         height="20"
-         x="10"
-         y="9.6816406"
-         rx="2.8000002"
-         ry="2" />
-      <text
-         sodipodi:linespacing="125%"
-         xml:space="preserve"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
-         x="16.295898"
+    <rect
+       ry="2"
+       rx="2.8000002"
+       y="9.6816406"
+       x="10"
+       height="20"
+       width="70"
+       id="rect3453"
+       style="fill:#222222;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       id="text3455"
+       y="23.900879"
+       x="19.635254"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+       xml:space="preserve"
+       sodipodi:linespacing="125%"><tspan
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
          y="23.900879"
-         id="text3455"><tspan
-           sodipodi:role="line"
-           id="tspan3457"
-           x="16.295898"
-           y="23.900879"
-           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold">ratelab</tspan></text>
-      <g
-         id="g3459"
-         transform="translate(-780,0)">
-        <path
-           id="path3461"
-           d="M 870,10 L 870,30"
-           style="fill:none;fill-rule:evenodd;stroke:#232323;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-        <path
-           style="fill:none;fill-rule:evenodd;stroke:#404040;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="M 871.02772,10 L 871.02772,30"
-           id="path3463" />
-      </g>
-      <rect
-         ry="2"
-         rx="1.9999999"
-         y="10"
-         x="100"
-         height="20"
-         width="50"
-         id="rect3465"
-         style="opacity:1;fill:#222222;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <text
-         id="text3467"
-         y="22.436279"
-         x="111.12378"
-         style="font-size:11px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-         xml:space="preserve"><tspan
-           style="font-size:11px;fill:#ffffff"
-           y="22.436279"
-           x="111.12378"
-           id="tspan3469"
-           sodipodi:role="line">вход</tspan></text>
-      <rect
-         style="opacity:1;fill:#222222;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect3471"
-         width="90"
-         height="20"
-         x="162"
-         y="10"
-         rx="3.5999999"
-         ry="2" />
-      <text
-         xml:space="preserve"
-         style="font-size:11px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-         x="169.89648"
-         y="22.436279"
-         id="text3473"><tspan
-           sodipodi:role="line"
-           id="tspan3475"
-           x="169.89648"
-           y="22.436279"
-           style="font-size:11px;fill:#ffffff">регистрация</tspan></text>
+         x="19.635254"
+         id="tspan3457"
+         sodipodi:role="line">specio</tspan></text>
+    <g
+       transform="translate(-780,0)"
+       id="g3459">
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#232323;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 870,10 L 870,30"
+         id="path3461" />
+      <path
+         id="path3463"
+         d="M 871.02772,10 L 871.02772,30"
+         style="fill:none;fill-rule:evenodd;stroke:#404040;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
     <rect
-       y="640.31836"
-       x="1.7053026e-13"
-       height="149.68164"
-       width="1150"
-       id="rect3477"
-       style="opacity:1;fill:#2e2e2e;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="fill:#222222;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3465"
+       width="50"
+       height="20"
+       x="100"
+       y="10"
+       rx="1.9999999"
+       ry="2" />
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="111.12378"
+       y="22.436279"
+       id="text3467"><tspan
+         sodipodi:role="line"
+         id="tspan3469"
+         x="111.12378"
+         y="22.436279"
+         style="font-size:11px;fill:#ffffff">вход</tspan></text>
+    <rect
+       ry="2"
+       rx="3.5999999"
+       y="10"
+       x="162"
+       height="20"
+       width="90"
+       id="rect3471"
+       style="fill:#222222;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       id="text3473"
+       y="22.436279"
+       x="169.89648"
+       style="font-size:11px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         style="font-size:11px;fill:#ffffff"
+         y="22.436279"
+         x="169.89648"
+         id="tspan3475"
+         sodipodi:role="line">регистрация</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
@@ -467,125 +555,118 @@
          id="tspan3487"
          x="97"
          y="550" /></text>
-    <g
-       id="g3549"
-       transform="translate(-298,110)">
-      <rect
-         ry="2"
-         rx="2.8000002"
-         y="540"
-         x="310"
-         height="20"
-         width="70"
-         id="rect3479"
-         style="fill:#5c5c5c;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <text
-         id="text3481"
-         y="554.21924"
-         x="316.2959"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#292929;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
-         xml:space="preserve"
-         sodipodi:linespacing="125%"><tspan
-           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#292929;fill-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
-           y="554.21924"
-           x="316.2959"
-           id="tspan3483"
-           sodipodi:role="line">ratelab</tspan></text>
-      <text
-         id="text3489"
-         y="553"
-         x="391.5"
-         style="font-size:10px;font-style:normal;font-weight:normal;fill:#5c5c5c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-         xml:space="preserve"><tspan
-           y="553"
-           x="391.5"
-           id="tspan3491"
-           sodipodi:role="line">© 2009 Все права защищены. <tspan
-   id="tspan3493"
-   style="fill:#797979;fill-opacity:1">о прокте | справка</tspan></tspan></text>
-    </g>
     <rect
-       style="opacity:1;fill:url(#linearGradient3527);fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect3503"
+       y="800"
+       x="1.7053026e-13"
+       height="149.68164"
        width="1150"
-       height="600"
-       x="1.1368684e-13"
-       y="40" />
+       id="rect3477"
+       style="fill:#2e2e2e;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:url(#linearGradient3586);stroke-width:1.01335442;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:#5c5c5c;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3479"
+       width="70"
+       height="20"
+       x="12"
+       y="809.68164"
+       rx="2.8000002"
+       ry="2" />
+    <text
+       sodipodi:linespacing="125%"
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#292929;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+       x="21.635254"
+       y="823.54395"
+       id="text3481"><tspan
+         sodipodi:role="line"
+         id="tspan3483"
+         x="21.635254"
+         y="823.54395"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#292929;fill-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold">specio</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#5c5c5c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="93.5"
+       y="822.68164"
+       id="text3489"><tspan
+         sodipodi:role="line"
+         id="tspan3491"
+         x="93.5"
+         y="822.68164">© 2009 Все права защищены. <tspan
+   style="fill:#797979;fill-opacity:1"
+   id="tspan3493">о прокте | справка</tspan></tspan></text>
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:url(#linearGradient3586);stroke-width:1.04604816;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect3563"
-       width="979.9032"
-       height="533.91345"
-       x="80.090134"
-       y="56.079857"
-       rx="3.9999454"
-       ry="4.1076045" />
+       width="979.87054"
+       height="693.90247"
+       x="75"
+       y="56.060791"
+       rx="3.9998119"
+       ry="4.3770714" />
+    <rect
+       style="fill:url(#linearGradient3829);fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.87113953"
+       id="rect3321"
+       width="220"
+       height="200"
+       x="820"
+       y="92"
+       rx="8"
+       ry="8" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#5c5c5c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+       x="877.16406"
+       y="142"
+       id="text3389"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3391"
+         x="877.16406"
+         y="142">оценка дня</tspan></text>
     <g
-       id="g3537">
-      <rect
-         ry="8"
-         rx="8"
-         y="92"
-         x="820"
-         height="200"
-         width="220"
-         id="rect3321"
-         style="fill:url(#linearGradient3535);fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.87113953" />
+       id="g3495"
+       transform="translate(0,-18)">
+      <text
+         xml:space="preserve"
+         style="font-size:72.59364319px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+         x="869.40967"
+         y="237.82732"
+         id="text3397"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3399"
+           x="869.40967"
+           y="237.82732">3.2</tspan></text>
       <text
          sodipodi:linespacing="125%"
-         id="text3389"
-         y="142"
-         x="877.16406"
-         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#5c5c5c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+         id="text3393"
+         y="235.07535"
+         x="869.65771"
+         style="font-size:68.88573456px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
          xml:space="preserve"><tspan
-           y="142"
-           x="877.16406"
-           id="tspan3391"
-           sodipodi:role="line">оценка дня</tspan></text>
-      <g
-         transform="translate(0,-18)"
-         id="g3495">
-        <text
-           sodipodi:linespacing="125%"
-           id="text3397"
-           y="237.82732"
-           x="869.40967"
-           style="font-size:72.59364319px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
-           xml:space="preserve"><tspan
-             y="237.82732"
-             x="869.40967"
-             id="tspan3399"
-             sodipodi:role="line">3.2</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-size:68.88573456px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
-           x="869.65771"
            y="235.07535"
-           id="text3393"
-           sodipodi:linespacing="125%"><tspan
-             sodipodi:role="line"
-             id="tspan3395"
-             x="869.65771"
-             y="235.07535">3.2</tspan></text>
-      </g>
-      <text
-         id="text3401"
-         y="252"
-         x="934"
-         style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-         xml:space="preserve"
-         sodipodi:linespacing="125%"><tspan
-           id="tspan3409"
-           style="font-size:10px;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle"
-           y="252"
-           x="935.5918"
-           sodipodi:role="line">настроение пользователей </tspan><tspan
-           id="tspan3417"
-           style="font-size:10px;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle"
-           y="264.5"
-           x="934"
-           sodipodi:role="line">за текущий день</tspan></text>
+           x="869.65771"
+           id="tspan3395"
+           sodipodi:role="line">3.2</tspan></text>
     </g>
+    <text
+       sodipodi:linespacing="125%"
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;fill:#aba9ab;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="934"
+       y="252"
+       id="text3401"><tspan
+         sodipodi:role="line"
+         x="935.5918"
+         y="252"
+         style="font-size:10px;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#aba9ab;fill-opacity:1"
+         id="tspan3409">настроение пользователей </tspan><tspan
+         sodipodi:role="line"
+         x="934"
+         y="264.5"
+         style="font-size:10px;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#aba9ab;fill-opacity:1"
+         id="tspan3417">за текущий день</tspan></text>
     <g
        id="g3488"
        transform="translate(0,-18)">
@@ -625,41 +706,849 @@
            style="fill:url(#linearGradient3518);fill-opacity:1">Оставить свое мнение </tspan></text>
     </g>
     <rect
-       style="opacity:1;fill:#e2f0f9;fill-opacity:1;stroke:none;stroke-width:0.99147165;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.87113953"
-       id="rect3522"
-       width="699.98724"
-       height="332.00851"
-       x="100.01276"
-       y="217.99147"
-       rx="8.0691156"
-       ry="8.000205" />
+       y="310"
+       x="820"
+       height="275"
+       width="220"
+       id="rect2478"
+       style="fill:#e1dfe1;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.87113953000000000"
+       rx="8"
+       ry="8" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3070"
+       y="345.70709"
+       x="862.12939"
+       style="font-size:18.09303474000000023px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:AlMateen;-inkscape-font-specification:AlMateen Bold"
+       xml:space="preserve"><tspan
+         y="345.70709"
+         x="862.12939"
+         id="tspan3072"
+         sodipodi:role="line">ИНТЕРЕСНОЕ</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-weight:normal;fill:#5c5c5c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-       x="120"
-       y="270"
-       id="text3550"><tspan
+       style="font-size:18.09303474px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:AlMateen;-inkscape-font-specification:AlMateen Bold"
+       x="861.4223"
+       y="345"
+       id="text3285"
+       sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan3552"
+         id="tspan3287"
+         x="861.4223"
+         y="345">ИНТЕРЕСНОЕ</tspan></text>
+    <g
+       transform="translate(0,120)"
+       id="g3406">
+      <rect
+         y="370"
+         x="830"
+         height="60"
+         width="200"
+         id="rect3408"
+         style="fill:#f7f3f7;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         id="path3410"
+         d="M 830,430 L 1030,430"
+         style="fill:none;fill-rule:evenodd;stroke:#c6c6c6;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter3293)" />
+    </g>
+    <g
+       id="g3377"
+       transform="translate(0,60)">
+      <rect
+         style="fill:#f7f3f7;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect3379"
+         width="200"
+         height="60"
+         x="830"
+         y="370" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#c6c6c6;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter3293)"
+         d="M 830,430 L 1030,430"
+         id="path3381" />
+    </g>
+    <g
+       id="g3373">
+      <rect
+         y="370"
+         x="830"
+         height="60"
+         width="200"
+         id="rect3289"
+         style="fill:#f7f3f7;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         id="path3291"
+         d="M 830,430 L 1030,430"
+         style="fill:none;fill-rule:evenodd;stroke:#c6c6c6;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter3293)" />
+    </g>
+    <g
+       id="g3168">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3297"
+         y="390.40381"
+         x="885"
+         style="font-size:9px;font-style:normal;font-weight:normal;fill:#2a7fff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:FreeSans;-inkscape-font-specification:FreeSans;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"
+         xml:space="preserve"><tspan
+           style="font-size:9px;fill:#2a7fff;fill-opacity:1;-inkscape-font-specification:FreeSans;font-family:FreeSans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"
+           y="390.40381"
+           x="885"
+           id="tspan3299"
+           sodipodi:role="line">Книга мастеров</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         xml:space="preserve"
+         style="font-size:8px;font-style:normal;font-weight:normal;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Mukti Narrow;-inkscape-font-specification:Mukti Narrow;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"
+         x="885"
+         y="405.40381"
+         id="text3311"><tspan
+           id="tspan3326"
+           style="font-size:8px;fill:#666666;-inkscape-font-specification:Mukti Narrow;font-family:Mukti Narrow;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"
+           sodipodi:role="line"
+           x="885"
+           y="405.40381">В принципе чего можно ожидать </tspan><tspan
+           style="font-size:8px;fill:#666666;-inkscape-font-specification:Mukti Narrow;font-family:Mukti Narrow;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"
+           id="tspan3315"
+           sodipodi:role="line"
+           x="885"
+           y="416.65381">от сказки. Главное в сказках ...</tspan></text>
+    </g>
+    <g
+       id="g3163">
+      <rect
+         rx="3"
+         ry="3"
+         y="380"
+         x="840"
+         height="40"
+         width="40"
+         id="rect3343"
+         style="fill:#aaccff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         transform="scale(1.0030736,0.9969359)"
+         sodipodi:linespacing="125%"
+         id="text3345"
+         y="411.26016"
+         x="847.39551"
+         style="font-size:29.65912056px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#aaccff;fill-opacity:1;stroke:#666666;stroke-width:0.34653378;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+         xml:space="preserve"><tspan
+           style="font-size:29.65912056px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;stroke:#666666;stroke-width:0.34653378;stroke-miterlimit:4;stroke-dasharray:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+           y="411.26016"
+           x="847.39551"
+           id="tspan3347"
+           sodipodi:role="line">4</tspan></text>
+    </g>
+    <text
+       id="text3387"
+       y="450.40381"
+       x="885"
+       style="font-size:9px;font-style:normal;font-weight:normal;fill:#2a7fff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:FreeSans;-inkscape-font-specification:FreeSans;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"
+       xml:space="preserve"
+       sodipodi:linespacing="125%"><tspan
+         style="font-size:9px;fill:#2a7fff;fill-opacity:1;-inkscape-font-specification:FreeSans;font-family:FreeSans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"
+         y="450.40381"
+         x="885"
+         id="tspan3389"
+         sodipodi:role="line">Чужие против Хищника</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-weight:normal;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:FreeSans;-inkscape-font-specification:FreeSans;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"
+       x="885"
+       y="465.40381"
+       id="text3391"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan3393"
+         style="font-size:8px;fill:#666666;-inkscape-font-specification:FreeSans;font-family:FreeSans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"
+         sodipodi:role="line"
+         x="885"
+         y="465.40381">В принципе чего можно ожидать </tspan><tspan
+         style="font-size:8px;fill:#666666;-inkscape-font-specification:FreeSans;font-family:FreeSans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"
+         id="tspan3396"
+         sodipodi:role="line"
+         x="885"
+         y="476.65381">от сказки. Главное в сказках ...</tspan></text>
+    <rect
+       rx="3"
+       ry="3"
+       y="440"
+       x="840"
+       height="40"
+       width="40"
+       id="rect3400"
+       style="fill:#8080ff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-size:9px;font-style:normal;font-weight:normal;fill:#2a7fff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:FreeSans;-inkscape-font-specification:FreeSans;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"
+       x="885"
+       y="510.40381"
+       id="text3416"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3418"
+         x="885"
+         y="510.40381"
+         style="font-size:9px;fill:#2a7fff;fill-opacity:1;-inkscape-font-specification:FreeSans;font-family:FreeSans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%">Облачно, возможны осадки ...</tspan></text>
+    <text
+       id="text3420"
+       y="525.40381"
+       x="885"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr;text-anchor:start;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+       xml:space="preserve"
+       sodipodi:linespacing="125%"><tspan
+         y="525.40381"
+         x="885"
+         sodipodi:role="line"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr;text-anchor:start;fill:#666666;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+         id="tspan3422">В принципе че1го можно ожидать </tspan><tspan
+         y="536.65381"
+         x="885"
+         sodipodi:role="line"
+         id="tspan3424"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr;text-anchor:start;fill:#666666;font-family:FreeSans;-inkscape-font-specification:FreeSans">от сказки. Главное в сказках ...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#2a7fff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"
+       x="830"
+       y="570"
+       id="text3480"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3482"
+         x="830"
+         y="570"
+         style="font-size:10px;fill:#2a7fff;fill-opacity:1;-inkscape-font-specification:FreeSerif;font-family:FreeSerif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%">что еще новенького</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="863.5"
+       y="521.25"
+       id="text3488"><tspan
+         sodipodi:role="line"
+         id="tspan3490"
+         x="863.5"
+         y="521.25" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:29.65912819px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#aaccff;fill-opacity:1;stroke:#666666;stroke-width:0.34653378;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+       x="847.23468"
+       y="472.21021"
+       id="text3058"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0030736,0.9969359)"><tspan
+         sodipodi:role="line"
+         id="tspan3060"
+         x="847.23468"
+         y="472.21021"
+         style="font-size:29.65912819px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;stroke:#666666;stroke-width:0.34653378;stroke-miterlimit:4;stroke-dasharray:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold">3</tspan></text>
+    <g
+       id="g3397">
+      <rect
+         rx="3"
+         ry="3"
+         y="500"
+         x="840"
+         height="40"
+         width="40"
+         id="rect3428"
+         style="fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         transform="translate(-0.8281696,0.7776825)"
+         id="g3391">
+        <text
+           xml:space="preserve"
+           style="font-size:29.6591301px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#aaccff;fill-opacity:1;stroke:#666666;stroke-width:0.34653378;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+           x="842.41083"
+           y="531.62897"
+           id="text3062"
+           sodipodi:linespacing="125%"
+           transform="scale(1.0030736,0.9969359)"><tspan
+             sodipodi:role="line"
+             id="tspan3064"
+             x="842.41083"
+             y="531.62897"
+             style="font-size:29.6591301px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;stroke:#666666;stroke-width:0.34653378;stroke-miterlimit:4;stroke-dasharray:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold">4</tspan></text>
+        <text
+           transform="scale(1.001682,0.9983208)"
+           sodipodi:linespacing="125%"
+           id="text3066"
+           y="520.7439"
+           x="864.17664"
+           style="font-size:15.69817543px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#aaccff;fill-opacity:1;stroke:#666666;stroke-width:0.34653381;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+           xml:space="preserve"><tspan
+             style="font-size:15.69817543px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;stroke:#666666;stroke-width:0.34653381;stroke-miterlimit:4;stroke-dasharray:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+             y="520.7439"
+             x="864.17664"
+             id="tspan3068"
+             sodipodi:role="line">7</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3074"
+       transform="translate(0.1001434,-15)">
+      <rect
+         ry="8.000205"
+         rx="8.0691156"
+         y="217.99147"
+         x="100.01276"
+         height="202.00851"
+         width="699.98724"
+         id="rect3522"
+         style="opacity:1;fill:#e2f0f9;fill-opacity:1;stroke:none;stroke-width:0.99147165;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.87113953" />
+      <text
+         id="text3550"
+         y="274"
          x="120"
-         y="270">я ставлю </tspan></text>
-    <rect
-       ry="4"
-       rx="4"
-       y="240.07143"
-       x="214.07143"
-       height="44.959194"
-       width="233.42859"
-       id="rect3558"
-       style="fill:#d0e5f2;fill-opacity:1;stroke:none;stroke-width:1.14285719;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.87113953" />
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.99999994;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.87113953"
-       id="rect3556"
-       width="227.87558"
-       height="40.097511"
-       x="216.59793"
-       y="242.50227"
-       rx="4"
-       ry="4" />
+         style="font-size:16px;font-style:normal;font-weight:normal;fill:#5c5c5c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="274"
+           x="120"
+           id="tspan3552"
+           sodipodi:role="line">я ставлю </tspan></text>
+      <g
+         transform="translate(8,0)"
+         id="g3348">
+        <g
+           id="g3299">
+          <g
+             id="g3295">
+            <rect
+               ry="4"
+               rx="3.9999998"
+               y="240"
+               x="216.89986"
+               height="44.959194"
+               width="89.271721"
+               id="rect3558"
+               style="fill:#d0e5f2;fill-opacity:1;stroke:none;stroke-width:1.14285719;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.87113953" />
+            <rect
+               style="fill:#ffffff;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.99999988;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.87113953"
+               id="rect3556"
+               width="83.409737"
+               height="40.097511"
+               x="219.62378"
+               y="242.43085"
+               rx="4"
+               ry="4" />
+          </g>
+          <g
+             id="g3290">
+            <rect
+               style="opacity:0.49812736;fill:#ffaaaa;fill-opacity:1;stroke:#ffaaaa;stroke-width:3.99999976;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.87113953"
+               id="rect2496"
+               width="34.242641"
+               height="30"
+               x="225.25002"
+               y="247.25" />
+            <text
+               xml:space="preserve"
+               style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+               x="228.93726"
+               y="268.68359"
+               id="text2486"><tspan
+                 sodipodi:role="line"
+                 id="tspan2488"
+                 x="228.93726"
+                 y="268.68359">+5</tspan></text>
+          </g>
+          <g
+             transform="translate(2,0)"
+             id="g3268">
+            <rect
+               style="opacity:0.49812736;fill:#ffffff;fill-opacity:1;stroke:#b3b3b3;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.87113953"
+               id="rect2492"
+               width="30"
+               height="30"
+               x="265"
+               y="247.5" />
+            <path
+               sodipodi:type="star"
+               style="opacity:0.49812736;fill:#ffffff;fill-opacity:1;stroke:#b3b3b3;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.87113953"
+               id="path2494"
+               sodipodi:sides="3"
+               sodipodi:cx="274"
+               sodipodi:cy="259.75"
+               sodipodi:r1="7"
+               sodipodi:r2="3.5000005"
+               sodipodi:arg1="1.5707963"
+               sodipodi:arg2="2.6179939"
+               inkscape:flatsided="false"
+               inkscape:rounded="0"
+               inkscape:randomized="0"
+               d="M 274,266.75 L 270.96891,261.5 L 267.93782,256.25 L 274,256.25 L 280.06218,256.25 L 277.03109,261.5 L 274,266.75 z"
+               transform="translate(6,1)" />
+          </g>
+        </g>
+        <g
+           id="g3323"
+           transform="translate(2.0831909,0)">
+          <g
+             id="g3315">
+            <g
+               id="g3311">
+              <rect
+                 ry="4"
+                 rx="4"
+                 y="240"
+                 x="311.48569"
+                 height="44.959194"
+                 width="176.43111"
+                 id="rect3272"
+                 style="fill:#d0e5f2;fill-opacity:1;stroke:none;stroke-width:1.14285719;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.87113953" />
+              <rect
+                 style="fill:#ffffff;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.99999976;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.87113953"
+                 id="rect3274"
+                 width="170.51884"
+                 height="40.097511"
+                 x="314.44183"
+                 y="242.43085"
+                 rx="4"
+                 ry="4" />
+            </g>
+            <g
+               transform="translate(184.85995,3.6507686e-8)"
+               id="g3276">
+              <rect
+                 style="opacity:0.49812736;fill:#ffffff;fill-opacity:1;stroke:#b3b3b3;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.87113953"
+                 id="rect3278"
+                 width="30"
+                 height="30"
+                 x="265"
+                 y="247.5" />
+              <path
+                 sodipodi:type="star"
+                 style="opacity:0.49812736;fill:#ffffff;fill-opacity:1;stroke:#b3b3b3;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.87113953"
+                 id="path3280"
+                 sodipodi:sides="3"
+                 sodipodi:cx="274"
+                 sodipodi:cy="259.75"
+                 sodipodi:r1="7"
+                 sodipodi:r2="3.5000005"
+                 sodipodi:arg1="1.5707963"
+                 sodipodi:arg2="2.6179939"
+                 inkscape:flatsided="false"
+                 inkscape:rounded="0"
+                 inkscape:randomized="0"
+                 d="M 274,266.75 L 270.96891,261.5 L 267.93782,256.25 L 274,256.25 L 280.06218,256.25 L 277.03109,261.5 L 274,266.75 z"
+                 transform="translate(6,1)" />
+            </g>
+          </g>
+          <text
+             id="text3282"
+             y="267.63361"
+             x="343.96939"
+             style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+             xml:space="preserve"><tspan
+               y="267.63361"
+               x="343.96939"
+               id="tspan3284"
+               sodipodi:role="line">фильму</tspan></text>
+        </g>
+        <g
+           id="g3334"
+           transform="matrix(1.0937766,0,0,1,-46.738241,0)">
+          <rect
+             style="fill:#d0e5f2;fill-opacity:1;stroke:none;stroke-width:1.14285719;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.87113953"
+             id="rect3286"
+             width="234.60013"
+             height="44.959194"
+             x="498.39987"
+             y="240"
+             rx="3.6570537"
+             ry="4" />
+          <rect
+             ry="4"
+             rx="3.6570539"
+             y="242.43085"
+             x="502.12381"
+             height="40.097511"
+             width="228.22382"
+             id="rect3288"
+             style="fill:#ffffff;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.9561711;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.87113953" />
+        </g>
+      </g>
+      <rect
+         ry="4"
+         rx="4"
+         y="299"
+         x="226.39989"
+         height="44.959194"
+         width="537.18597"
+         id="rect3340"
+         style="fill:#d0e5f2;fill-opacity:1;stroke:none;stroke-width:1.14285719;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.87113953" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.99999982;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.87113953"
+         id="rect3342"
+         width="531.03229"
+         height="40.097511"
+         x="229.29253"
+         y="301.43085"
+         rx="3.9999998"
+         ry="4" />
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-style:normal;font-weight:normal;fill:#5c5c5c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         x="120"
+         y="326"
+         id="text3344"><tspan
+           sodipodi:role="line"
+           id="tspan3346"
+           x="120"
+           y="326">потому что</tspan></text>
+      <rect
+         ry="20"
+         rx="20"
+         y="360"
+         x="230"
+         height="40"
+         width="120"
+         id="rect3384"
+         style="fill:url(#linearGradient3416);fill-opacity:1;stroke:#333333;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.87113953" />
+      <text
+         id="text3400"
+         y="384.27344"
+         x="245.01172"
+         style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="384.27344"
+           x="245.01172"
+           id="tspan3402"
+           sodipodi:role="line">Сохранить</tspan></text>
+    </g>
+    <g
+       id="g3754"
+       transform="translate(1.4142074,-20.33023)">
+      <g
+         transform="translate(0,125)"
+         id="g3151">
+        <text
+           xml:space="preserve"
+           style="font-size:14.31434059px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#2e2e2e;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial Black;-inkscape-font-specification:Arial Black Heavy"
+           x="100"
+           y="350"
+           id="text3739"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3741"
+             x="100"
+             y="350">НОВЫЕ ЗАПИСИ</tspan></text>
+        <g
+           id="g3751"
+           transform="matrix(1,0,0,0.75,0,93.75)">
+          <rect
+             y="375"
+             x="100"
+             height="100"
+             width="700"
+             id="rect3745"
+             style="opacity:0.22519082;fill:#d2d2d2;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             id="path3747"
+             d="M 100,475 L 800,475"
+             style="fill:#cccccc;fill-rule:evenodd;stroke:#cccccc;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             style="fill:#cccccc;fill-rule:evenodd;stroke:#cccccc;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="M 100,375 L 800,375"
+             id="path3749" />
+        </g>
+        <g
+           id="g3759"
+           transform="matrix(1,0,0,0.75,0,243.75)">
+          <rect
+             style="opacity:0.22519082;fill:#d2d2d2;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="rect3761"
+             width="700"
+             height="100"
+             x="100"
+             y="375" />
+          <path
+             style="fill:#cccccc;fill-rule:evenodd;stroke:#cccccc;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="M 100,475 L 800,475"
+             id="path3763" />
+          <path
+             id="path3765"
+             d="M 100,375 L 800,375"
+             style="fill:#cccccc;fill-rule:evenodd;stroke:#cccccc;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        </g>
+      </g>
+      <g
+         id="g3737">
+        <g
+           id="g3301">
+          <g
+             transform="translate(-660,143.18198)"
+             id="g3175">
+            <text
+               xml:space="preserve"
+               style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#2a7fff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+               x="885"
+               y="390.40381"
+               id="text3177"
+               sodipodi:linespacing="125%"><tspan
+                 sodipodi:role="line"
+                 id="tspan3179"
+                 x="885"
+                 y="390.40381"
+                 style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#2a7fff;fill-opacity:1;font-family:FreeSans;-inkscape-font-specification:FreeSans">Книга мастеров</tspan></text>
+            <text
+               id="text3181"
+               y="405.40381"
+               x="885"
+               style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Mukti Narrow;-inkscape-font-specification:Mukti Narrow"
+               xml:space="preserve"
+               sodipodi:linespacing="125%"><tspan
+                 y="405.40381"
+                 x="885"
+                 sodipodi:role="line"
+                 id="tspan3185"
+                 style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#666666;font-family:Mukti Narrow;-inkscape-font-specification:Mukti Narrow">Пошла в кинотеатр убить парочку часов. В виду того, что ничего более достойного не шло, </tspan><tspan
+                 id="tspan3292"
+                 y="415.98828"
+                 x="885"
+                 sodipodi:role="line"
+                 style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#666666;font-family:Mukti Narrow;-inkscape-font-specification:Mukti Narrow">решила сходить на «Книгу мастеров». О чем впоследствии сильно пожалела.</tspan></text>
+          </g>
+          <text
+             sodipodi:linespacing="125%"
+             id="text3283"
+             y="515.90845"
+             x="224.56042"
+             style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+             xml:space="preserve"><tspan
+               y="515.90845"
+               x="224.56042"
+               id="tspan3285"
+               sodipodi:role="line">amadev, полчаса назад</tspan></text>
+        </g>
+        <g
+           id="g3676">
+          <g
+             transform="translate(-725.00006,135)"
+             id="g3187">
+            <rect
+               style="fill:#aaccff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="rect3189"
+               width="40"
+               height="40"
+               x="840"
+               y="380"
+               ry="3"
+               rx="3" />
+            <text
+               xml:space="preserve"
+               style="font-size:29.65912056px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#aaccff;fill-opacity:1;stroke:#666666;stroke-width:0.34653378;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+               x="847.39551"
+               y="411.26016"
+               id="text3191"
+               sodipodi:linespacing="125%"
+               transform="scale(1.0030736,0.9969359)"><tspan
+                 sodipodi:role="line"
+                 id="tspan3193"
+                 x="847.39551"
+                 y="411.26016"
+                 style="font-size:29.65912056px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;stroke:#666666;stroke-width:0.34653378;stroke-miterlimit:4;stroke-dasharray:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold">4</tspan></text>
+          </g>
+          <image
+             xlink:href="c1.jpg"
+             sodipodi:absref="/home/amadev/projects/rater/docs/c1.jpg"
+             width="40"
+             height="40"
+             id="image3603"
+             x="166.17114"
+             y="515" />
+        </g>
+      </g>
+      <g
+         id="g3717">
+        <g
+           id="g3312"
+           transform="translate(0,74.953319)">
+          <g
+             id="g3314"
+             transform="translate(-660,143.18198)">
+            <text
+               sodipodi:linespacing="125%"
+               id="text3316"
+               y="390.40381"
+               x="885"
+               style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#2a7fff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+               xml:space="preserve"><tspan
+                 style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#2a7fff;fill-opacity:1;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+                 y="390.40381"
+                 x="885"
+                 id="tspan3318"
+                 sodipodi:role="line">Книга мастеров</tspan></text>
+            <text
+               sodipodi:linespacing="125%"
+               xml:space="preserve"
+               style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Mukti Narrow;-inkscape-font-specification:Mukti Narrow"
+               x="885"
+               y="405.40381"
+               id="text3320"><tspan
+                 style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#666666;font-family:Mukti Narrow;-inkscape-font-specification:Mukti Narrow"
+                 id="tspan3322"
+                 sodipodi:role="line"
+                 x="885"
+                 y="405.40381">Пошла в кинотеатр убить парочку часов. В виду того, что ничего более достойного не шло, </tspan><tspan
+                 style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#666666;font-family:Mukti Narrow;-inkscape-font-specification:Mukti Narrow"
+                 sodipodi:role="line"
+                 x="885"
+                 y="415.98828"
+                 id="tspan3324">решила сходить на «Книгу мастеров». О чем впоследствии сильно пожалела.</tspan></text>
+          </g>
+          <text
+             xml:space="preserve"
+             style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+             x="224.56042"
+             y="515.90845"
+             id="text3326"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               id="tspan3328"
+               x="224.56042"
+               y="515.90845">amadev, полчаса назад</tspan></text>
+        </g>
+        <g
+           id="g3683">
+          <g
+             transform="translate(-727,90)"
+             id="g3405">
+            <rect
+               rx="3"
+               ry="3"
+               y="500"
+               x="840"
+               height="40"
+               width="40"
+               id="rect3407"
+               style="fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+            <g
+               transform="translate(-0.8281696,0.7776825)"
+               id="g3409">
+              <text
+                 xml:space="preserve"
+                 style="font-size:29.6591301px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#aaccff;fill-opacity:1;stroke:#666666;stroke-width:0.34653378;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+                 x="842.41083"
+                 y="531.62897"
+                 id="text3411"
+                 sodipodi:linespacing="125%"
+                 transform="scale(1.0030736,0.9969359)"><tspan
+                   sodipodi:role="line"
+                   id="tspan3413"
+                   x="842.41083"
+                   y="531.62897"
+                   style="font-size:29.6591301px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;stroke:#666666;stroke-width:0.34653378;stroke-miterlimit:4;stroke-dasharray:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold">4</tspan></text>
+              <text
+                 transform="scale(1.001682,0.9983208)"
+                 sodipodi:linespacing="125%"
+                 id="text3415"
+                 y="520.7439"
+                 x="864.17664"
+                 style="font-size:15.69817543px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#aaccff;fill-opacity:1;stroke:#666666;stroke-width:0.34653381;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+                 xml:space="preserve"><tspan
+                   style="font-size:15.69817543px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;stroke:#666666;stroke-width:0.34653381;stroke-miterlimit:4;stroke-dasharray:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+                   y="520.7439"
+                   x="864.17664"
+                   id="tspan3419"
+                   sodipodi:role="line">7</tspan></text>
+            </g>
+          </g>
+          <image
+             xlink:href="c2.jpg"
+             sodipodi:absref="/home/amadev/projects/rater/docs/c2.jpg"
+             width="40"
+             height="40"
+             id="image3670"
+             x="165"
+             y="590" />
+        </g>
+      </g>
+      <g
+         id="g3700">
+        <g
+           transform="translate(0,151.32085)"
+           id="g3361">
+          <g
+             transform="translate(-660,143.18198)"
+             id="g3363">
+            <text
+               xml:space="preserve"
+               style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#2a7fff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+               x="885"
+               y="390.40381"
+               id="text3365"
+               sodipodi:linespacing="125%"><tspan
+                 sodipodi:role="line"
+                 id="tspan3367"
+                 x="885"
+                 y="390.40381"
+                 style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#2a7fff;fill-opacity:1;font-family:FreeSans;-inkscape-font-specification:FreeSans">Книга мастеров</tspan></text>
+            <text
+               id="text3369"
+               y="405.40381"
+               x="885"
+               style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Mukti Narrow;-inkscape-font-specification:Mukti Narrow"
+               xml:space="preserve"
+               sodipodi:linespacing="125%"><tspan
+                 y="405.40381"
+                 x="885"
+                 sodipodi:role="line"
+                 id="tspan3371"
+                 style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#666666;font-family:Mukti Narrow;-inkscape-font-specification:Mukti Narrow">Пошла в кинотеатр убить парочку часов. В виду того, что ничего более достойного не шло, </tspan><tspan
+                 id="tspan3373"
+                 y="415.98828"
+                 x="885"
+                 sodipodi:role="line"
+                 style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#666666;font-family:Mukti Narrow;-inkscape-font-specification:Mukti Narrow">решила сходить на «Книгу мастеров». О чем впоследствии сильно пожалела.</tspan></text>
+          </g>
+          <text
+             sodipodi:linespacing="125%"
+             id="text3375"
+             y="515.90845"
+             x="224.56042"
+             style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+             xml:space="preserve"><tspan
+               y="515.90845"
+               x="224.56042"
+               id="tspan3377"
+               sodipodi:role="line">amadev, полчаса назад</tspan></text>
+        </g>
+        <g
+           id="g3693">
+          <g
+             transform="translate(-726.41427,285.33021)"
+             id="g3381">
+            <rect
+               style="fill:#aaccff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="rect3383"
+               width="40"
+               height="40"
+               x="840"
+               y="380"
+               ry="3"
+               rx="3" />
+            <text
+               xml:space="preserve"
+               style="font-size:29.65912056px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#aaccff;fill-opacity:1;stroke:#666666;stroke-width:0.34653378;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+               x="847.39551"
+               y="411.26016"
+               id="text3385"
+               sodipodi:linespacing="125%"
+               transform="scale(1.0030736,0.9969359)"><tspan
+                 sodipodi:role="line"
+                 id="tspan3387"
+                 x="847.39551"
+                 y="411.26016"
+                 style="font-size:29.65912056px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;stroke:#666666;stroke-width:0.34653378;stroke-miterlimit:4;stroke-dasharray:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold">4</tspan></text>
+          </g>
+          <image
+             xlink:href="c1.jpg"
+             sodipodi:absref="/home/amadev/projects/rater/docs/c1.jpg"
+             width="40"
+             height="40"
+             id="image3674"
+             x="165"
+             y="665.3302" />
+        </g>
+      </g>
+    </g>
   </g>
 </svg>
